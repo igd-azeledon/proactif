@@ -1,0 +1,21 @@
+/* GENERAL DEFINITIONS STARTS */
+body {
+
+}
+
+h1 {
+	font-size: 50px;
+	text-align: center
+}
+
+#PageContent{
+	display:block;
+	text-align: left;
+	width: 500px;
+	margin: 0 auto;
+}
+a {
+}
+a:hover {
+}
+/* FOOTER ENDS*/

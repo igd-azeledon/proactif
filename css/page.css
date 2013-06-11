@@ -1,0 +1,51 @@
+/* PAGE STARTS */
+.banner {
+	width: 100%;
+}
+.banner div {
+	width: 960px;
+	height: 237px;
+	margin: 0 auto;
+	position: relative;
+}
+.banner h2 {
+	width: 340px;
+	min-height: 60px;
+	padding: 20px;
+	background-color: #FFF;
+	line-height: 30px;
+	position: absolute;
+	top: 100px;
+	left: 17px;
+	z-index: 10;
+}
+.banner h2.different {
+	top: 50px;
+}
+.pic1 {
+	background: url(../images/page/banner_01.jpg) repeat-x center top;
+}
+
+#PageContent {
+	padding-top: 60px;
+}
+#CenterContent .links {
+	padding: 0;
+	position: absolute;
+	top: -35px;
+}
+#CenterContent .links li {
+	padding: 0 7px 0 0;
+	background: none;
+	font-size: 11px;
+	float: left;
+}
+#PageContent .links li a {
+	padding-right: 7px;
+	font-size: 11px;
+	color: #E41C23;
+}
+.links li a:hover {
+	text-decoration: underline;
+}
+/* PAGE ENDS */
