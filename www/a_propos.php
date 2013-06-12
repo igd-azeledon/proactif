@@ -40,15 +40,14 @@
 			<h1>Assurance ProActif</h1>
 			<h2>Concentrez-vous sur la guérison, on s’occupe de votre sécurité financière!</h2>
 			<p>Avec ProActif, Assurance en cas de blessure, vous préservez votre qualité de vie et votre autonomie financière.</p>
-			<p>Advenant un accident ou une blessure, ProActif, Assurance en cas de blessure, vous bénéficiez d’un soutien optimal pour vous rétablir en toute quiétude :</p>
+			<p>Advenant un accident ou une blessure, ProActif, Assurance en cas de blessure, vous bénéficiez d’un soutien optimal pour vous rétablir en toute tranquillité :</p>
 			<ul>
-				<li>Recevez une <strong>prestation</strong> et une garantie de convalescence en argent pouvant totaliser <strong>jusqu’à 18 750 $</strong> à utiliser comme bon vous semble</li>
-				<li>Profitez <strong>d’aucune limite</strong> quant au nombre de réclamations pour des accidents distincts admissibles</li>
-				<li>Obtenez une protection supplémentaire en cas de décès accidentel pouvant aller <strong>jusqu’à 18 750 $</strong></li>
-				<li>Bénéficiez d’une couverture partout dans le monde, <strong>24heures sur 24</strong></li>
-				<li>Profitez en plus des avantages d’<strong>Assistance soins médicaux</strong>, un programme de soutien médical complet et personnalisé qui met à votre disposition les meilleures ressources en soins de santé</li>
+				<li>Prestation de convalescence en argent <strong>jusqu’à 18 750 $</strong> à utiliser comme bon vous semble</li>
+				<li>Protection supplémentaire en cas de décès accidentel pouvant aller <strong>jusqu’à 	18 750 	$</strong></li>
+				<li>Couverture 	partout dans le monde, <strong>24heures sur 24</strong></li> 
+				<li>Profitez en plus des avantages d’<strong>Assistance soins médicaux</strong>, un programme de soutien médical complet et personnalisé qui met à votre disposition les meilleures ressources en soins de santé.</li>
 			</ul>
-			<p>Sans compter qu’avec ProActif, votre acceptation est garantie. Aucun questionnaire, aucun examen médical. Et grâce à notre période d’essai de 30 jours, votre satisfaction est assurée !</p>
+			<p>De plus, si vous avez entre 18 et 75 ans votre, acceptation est garantie et vous bénéficiez d’une période d’essai de 30 jours pour vous assurer que ProActif répond pleinement à vos besoins.</p>
 		</article>
 	</section>
 <!--CENTER CONTENT ENDS-->

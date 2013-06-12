@@ -1,11 +1,8 @@
 <aside>
 	<article>
-		<h2>Pr&eacute;servez votre qualit&eacute; de<br />vie et votre autonomie financi&egrave;re !</h2>
-		<p>Appelez d&egrave;s maintenant.</p>
-		<h1>1 888 000-0000</h1>
-		<hr />
-		<p>Vous pr&eacute;f&eacute;rez</p>
-		<h3><a href="#" title="qu&rsquo;on vous rappelle?" class="red_arrow">qu&rsquo;on vous rappelle?</a></h3>
+		<h2>Appelez maintenant</h2>
+		<h2>1 855 871-4945 <span>1 877 871-7500</span></h2>
+                <p>Et préservez votre qualité de<br /> vie et votre autonomie financi&egrave;re !</p>
 	</article>
 	<article>
 		<h2>D&eacute;couvrez nos diff&eacute;rents produits d&rsquo;assistance</h2>
@@ -39,8 +36,11 @@
 			<li>
 				<a href="#" title="Assurance habitation">Assurance habitation</a>
 			</li>
-			<li class="last">
+			<li>
 				<a href="#" title="Assurance voyage">Assurance voyage</a>
+			</li>
+                        <li class="last">
+				<a href="#" title="Assurance voyageAss">Assurance voyageAss</a>
 			</li>
 		</ul>
 	</article>
