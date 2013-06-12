@@ -33,7 +33,7 @@
 				<div class="tooltip">
 					<a href="a_propos.php" title="&Agrave; Propos">&Agrave; Propos</a>
 					<a href="caracteristiques-prestations.php" title="Caract&eacute;ristiques Prestations">Caract&eacute;ristiques Prestations</a>
-					<a href="#" title="Primes - Prestations">Primes - Prestations</a>
+					<a href="primes_prestations.php" title="Primes - Prestations">Primes - Prestations</a>
 					<a href="assitance-soins-medicaux.php" title="Assurances Soins M&eacute;dicaux">Assurances Soins M&eacute;dicaux</a>
 				</div>
 			</li>
