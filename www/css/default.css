@@ -168,7 +168,7 @@ svg:not(:root) {overflow: hidden;}
 	margin: 0 auto;
 	padding-top: 13px;
 }
-#header_top div > a:first-child {
+#header_top > div > a:first-child {
 	padding-top: 12px;
 }
 #header_top a {
@@ -261,6 +261,7 @@ svg:not(:root) {overflow: hidden;}
 	margin: 0 auto;
 }
 #header_top > nav ul li {
+	position: relative;
 	float: left;
 }
 #header_top > nav ul li a {
@@ -272,7 +273,7 @@ svg:not(:root) {overflow: hidden;}
 #header_top > nav ul li a:hover {
 	background: url(../images/defaults/bkgd_menu.jpg) repeat-x bottom;
 }
-#header_top > nav ul li a:after {
+#header_top > nav ul li > a:after {
 	width: 1px;
 	height: 16px;
 	content: '';
@@ -280,6 +281,45 @@ svg:not(:root) {overflow: hidden;}
 	position: absolute;
 	top: 9px;
 	left: 0;
+}
+/* tooltip styling */
+.sub {
+	padding: 0 !important;
+}
+#submenu {
+	height: 23px;
+	padding: 10px 17px 0 16px;
+	position: relative;
+	cursor: pointer;
+	display: block;
+}
+#submenu:hover, .hover {
+	background: url(../images/defaults/bkgd_menu.jpg) repeat-x bottom;
+}
+.tooltip {
+	width: 246px;
+	height: 140px;
+	padding: 48px 0 0 40px;
+	background: url(../images/black_arrow_big.png);
+	text-transform: uppercase;
+	color: #00324D;
+	position: absolute; 
+	top: 30px !important; 
+	left: -75px  !important;
+	display: none;
+	z-index: 10;
+}
+#header_top .tooltip a {
+	height: auto;
+	padding: 0 12px 15px 0;
+	background: url(../images/arrow_red2.png) no-repeat right 3px;
+	text-transform: uppercase;
+	color: #00324D;
+	clear: both;
+}
+#header_top .tooltip a:hover {
+	background: url(../images/arrow_red2.png) no-repeat right 3px;
+	color: #E41C23;
 }
 /* TOP ENDS */
 
