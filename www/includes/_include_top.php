@@ -32,9 +32,9 @@
 			<li><a title="Assurance Proactif" class="sub"><span id="submenu">Assurance Proactif</span></a>
 				<div class="tooltip">
 					<a href="a_propos.php" title="&Agrave; Propos">&Agrave; Propos</a>
-					<a href="#" title="Caract&eacute;ristiques Prestations">Caract&eacute;ristiques Prestations</a>
-					<a href="#" title="Primes - Prestations">Primes - Prestations</a>
-					<a href="#" title="Assurances Soins M&eacute;dicaux">Assurances Soins M&eacute;dicaux</a>
+					<a href="caracteristiques_prestations.php" title="Caract&eacute;ristiques Prestations">Caract&eacute;ristiques Prestations</a>
+					<a href="primes_prestations.php" title="Primes - Prestations">Primes - Prestations</a>
+					<a href="assurances_soins-medicaux.php" title="Assurances Soins M&eacute;dicaux">Assurances Soins M&eacute;dicaux</a>
 				</div>
 			</li>
 			<li><a href="#" title="Trousse D&rsquo;Information">Trousse D&rsquo;Information</a></li>

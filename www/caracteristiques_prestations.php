@@ -24,7 +24,7 @@
 <?php include_once("includes/_include_top.php"); ?>
 <!--TOP ENDS-->
 
-<section class="banner pic1"><div><h2 class="different">Concentrez-vous sur la guérison, on s’occupe de votre sécurité financière</h2></div></section>
+<section class="banner pic2"><div><h2 class="different">Deux prestation pour le prix d’une : une garantie de convalescence</h2></div></section>
 
 <!--PAGE CONTENT STARTS-->
 <section id="PageContent">
@@ -47,6 +47,7 @@
                             <li>Jusqu’à <strong>18 750 $</strong> de protection supplémentaire en cas de décès accidentel</li> 
 			</ul>
 		</article>
+		<hr />
                 <article>
                     <h2>Deux prestations plutôt qu’une !</h2>
                     <p>Pour chaque accident, <strong>ProActif, Assurance en cas de blessure</strong> vous versera deux prestations pour vous aider à préserver votre autonomie financière :</p>
@@ -56,6 +57,7 @@
                     </ul>
                     <p>Consultez le tableau des prestations pour connaître le soutien financier auquel vous pourriez avoir droit.</p>
                 </article>
+				<hr />
                 <article>
                     <h2>Utilisez l’argent comme bon vous semble</h2>
                     <p><strong>ProActif, Assurance en cas de blessure</strong> vous permet d’utiliser ces sommes comme vous le désirez :</p>
@@ -91,6 +93,8 @@
 <!--Grab Google CDN's jQuery, with a protocol relative URL; fall back to local if offline-->
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="js/jquery-1.8.2.min.js"><\/script>')</script>
+
+<script type="text/javascript" src="js/jquery.tools.min.js"></script>
 
 <!--scripts concatenated and minified via ant build script-->
 <script defer src="js/script.js"></script><!--Para colocar inizializadores de JS-->
