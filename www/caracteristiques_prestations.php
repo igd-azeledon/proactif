@@ -1,5 +1,5 @@
 <!doctype html>
-<html class="no-js" lang="en">
+<html class="no-js" lang="fr">
 <head>
 
 <meta charset="utf-8">
@@ -32,8 +32,8 @@
 <!--CENTER CONTENT STARTS-->
 	<section id="CenterContent">
 		<ul class="links">
-			<li><a href="#" title="Accueil">Accueil</a>></li>
-			<li><a href="#" title="Assurance ProActif">Assurance ProActif</a>></li>
+			<li><a href="index.php" title="Accueil">Accueil</a>></li>
+			<li><a href="a_propos.php" title="Assurance ProActif">Assurance ProActif</a>></li>
 			<li>Caracteristiques Prestations</li>
 		</ul>
                 <h1>UNE PROTECTION SUR MESURE</h1>
