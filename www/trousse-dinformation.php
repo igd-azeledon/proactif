@@ -45,7 +45,7 @@
                             <li>Dépliant <strong>ProActif, Assurance en cas de blessure</strong></li> 
                             <li>Dépliant <strong>Assistance soins médicaux</strong></li> 
                         </ul>
-                        <p>Vous préférez nous parler ? <a href="nous_joindre.php">Nous joindre</a></p>
+                        <p>Vous préférez nous parler ? <a href="nous-joindre.php">Nous joindre</a></p>
 		</article>
 	</section>
 <!--CENTER CONTENT ENDS-->

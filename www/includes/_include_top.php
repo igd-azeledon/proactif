@@ -14,8 +14,8 @@
 			<nav>
 				<ul>
 					<li><a href="#" title="FAQ">FAQ</a>|</li>
-					<li><a href="#" title="Nous Joindre">Nous Joindre</a>|</li>
-					<li><a href="#" title="English">English</a></li>
+					<li><a href="nous-joindre.php" title="Nous Joindre">Nous Joindre</a>|</li>
+					<li><a href="/en" title="English">English</a></li>
 				</ul>
 			</nav>
 			<form action="contactenos-submit.php" id="Search" name="Search" method="post">
@@ -32,13 +32,13 @@
 			<li><a title="Assurance Proactif" class="sub"><span id="submenu">Assurance Proactif</span></a>
 				<div class="tooltip">
 					<a href="a_propos.php" title="&Agrave; Propos">&Agrave; Propos</a>
-					<a href="caracteristiques_prestations.php" title="Caract&eacute;ristiques Prestations">Caract&eacute;ristiques Prestations</a>
+					<a href="caracteristiques-prestations.php" title="Caract&eacute;ristiques Prestations">Caract&eacute;ristiques Prestations</a>
 					<a href="#" title="Primes - Prestations">Primes - Prestations</a>
-					<a href="assitance_soins_medicaux.php" title="Assurances Soins M&eacute;dicaux">Assurances Soins M&eacute;dicaux</a>
+					<a href="assitance-soins-medicaux.php" title="Assurances Soins M&eacute;dicaux">Assurances Soins M&eacute;dicaux</a>
 				</div>
 			</li>
-			<li><a href="trousse_dinformation.php" title="Trousse D&rsquo;Information">Trousse D&rsquo;Information</a></li>
-			<li><a href="nous_joindre.php" title="Nous Joindre">Nous Joindre</a></li>
+			<li><a href="trousse-dinformation.php" title="Trousse D&rsquo;Information">Trousse D&rsquo;Information</a></li>
+			<li><a href="nous-joindre.php" title="Nous Joindre">Nous Joindre</a></li>
 		</ul>
 	</nav>
 </header>
