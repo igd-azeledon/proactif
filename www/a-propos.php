@@ -33,11 +33,11 @@
 	<section id="CenterContent">
 		<ul class="links">
 			<li><a href="index.php" title="Accueil">Accueil</a>></li>
-			<li><a href="a_propos.php" title="Assurance ProActif">Assurance ProActif</a>></li>
+			<li><a href="a-propos.php" title="Assurance ProActif">Assurance ProActif</a>></li>
 			<li>À Propos</li>
 		</ul>
 		<article>
-			<h1>Assurance ProActif</h1>
+		  <h1>Assurance ProActif</h1>
 			<h2>Concentrez-vous sur la guérison, on s’occupe de votre sécurité financière!</h2>
 			<p>Avec ProActif, Assurance en cas de blessure, vous préservez votre qualité de vie et votre autonomie financière.</p>
 			<p>Advenant un accident ou une blessure, ProActif, Assurance en cas de blessure, vous bénéficiez d’un soutien optimal pour vous rétablir en toute tranquillité :</p>
@@ -48,8 +48,8 @@
 				<li>Profitez en plus des avantages d’<strong>Assistance soins médicaux</strong>, un programme de soutien médical complet et personnalisé qui met à votre disposition les meilleures ressources en soins de santé.</li>
 			</ul>
 			<p>De plus, si vous avez entre 18 et 75 ans votre, acceptation est garantie et vous bénéficiez d’une période d’essai de 30 jours pour vous assurer que ProActif répond pleinement à vos besoins.</p>
-		</article>
-	</section>
+	  </article>
+  </section>
 <!--CENTER CONTENT ENDS-->
 
 <!--ASIDE STARTS-->

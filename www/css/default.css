@@ -555,6 +555,7 @@ footer li {
 	float: right;
 }
 footer li.no_padding {
+	padding-top: 12px !important;
 	padding-left: 0;
 }
 footer a {

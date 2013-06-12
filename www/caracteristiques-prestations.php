@@ -33,11 +33,11 @@
 	<section id="CenterContent">
 		<ul class="links">
 			<li><a href="index.php" title="Accueil">Accueil</a>></li>
-			<li><a href="a_propos.php" title="Assurance ProActif">Assurance ProActif</a>></li>
+			<li><a href="a-propos.php" title="Assurance ProActif">Assurance ProActif</a>></li>
 			<li>Caracteristiques Prestations</li>
 		</ul>
                 <h1>UNE PROTECTION SUR MESURE</h1>
-		<article>
+		<article class="no_padding">
 			<h2>Pour vous aider à faire face aux dépenses imprévues</h2>
 			<p>ProActif, Assurance en cas de blessure s’adapte à votre budget et vous offre trois niveaux de protection.</p>
                         <p>Selon le niveau choisi, vous profitez d’un soutien financier pouvant aller</p>
@@ -48,7 +48,7 @@
 			</ul>
 		</article>
 		<hr />
-                <article>
+                <article class="no_padding">
                     <h2>Deux prestations plutôt qu’une !</h2>
                     <p>Pour chaque accident, <strong>ProActif, Assurance en cas de blessure</strong> vous versera deux prestations pour vous aider à préserver votre autonomie financière :</p>
                     <ul>
@@ -68,7 +68,7 @@
                     <p>Si vous recevez déjà une prestation d’un régime privé ou gouvernemental, ou que votre rétablissement ne nécessite ni hospitalisation ni arrêt de travail, nous vous versons tout de même en totalité les prestations correspondant à votre niveau de protection.</p>
                     <p><strong>Et toutes ces prestations sont cumulatives et non imposables!</strong></p>
                 </article>
-	</section>
+  </section>
 <!--CENTER CONTENT ENDS-->
 
 <!--ASIDE STARTS-->

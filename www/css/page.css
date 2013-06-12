@@ -23,6 +23,14 @@
 .banner h2.different {
 	top: 50px;
 }
+.banner h2.different span {
+	padding: 5px 0;
+	font-size: 15px;
+	font-weight: normal;
+	color: #666;
+	line-height: 23px;
+	display: block;
+}
 .pic1 {
 	background: url(../images/page/banner_01.jpg) repeat-x center top;
 }
@@ -34,6 +42,9 @@
 }
 .pic4 {
 	background: url(../images/page/banner_04.jpg) repeat-x center top;
+}
+.pic5 {
+	background: url(../images/page/banner_05.jpg) repeat-x center top;
 }
 #PageContent {
 	padding-top: 60px;
@@ -60,7 +71,6 @@
 .no_padding {
 	padding: 0 !important;
 }
-
 /* TABLE CSS STARTS */
 th {
 	padding: 12px 10px;
@@ -137,5 +147,39 @@ tbody th span {
 }
 
 /* TABLE CSS ENDS */
-
+#CenterContent ul#Documents {
+	margin-bottom: 30px;
+	padding: 20px 20px 0;
+	border: 1px solid #E41C23;
+	color: #00324D;
+}
+#CenterContent ul#Documents li {
+	padding-bottom: 20px;
+	background: url(../images/defaults/arrow_red.png) no-repeat 0 3px;
+	color: #00324D;
+}
+#Documents  a {
+	font-size: 13px;
+}
+#Documents  a:hover {
+	color: #E41C23;
+}
+#Documents img {
+	margin: 0 3px;
+	position: relative;
+	top: 2px;
+}
+#PageContent p.joindre {
+	padding: 20px 0;
+	background: url(../images/page/icon_phone.gif) no-repeat 90px 20px;
+	border: 1px solid #CCC;
+	text-align: center;
+}
+.joindre a {
+	width: 95px;
+	margin: 0 0 0 10px;
+	padding-left: 30px;
+	text-align: left;
+	display: inline-block;
+}
 /* PAGE ENDS */
