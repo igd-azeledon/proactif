@@ -18,6 +18,7 @@
 <!--CSS STARTS-->
 <link rel="stylesheet" type="text/css" href="css/default.css" />
 <link rel="stylesheet" type="text/css" href="css/page.css" />
+<link rel="stylesheet" type="text/css" href="css/error.css" />
 <!--CSS ENDS-->
 
 <script src="js/libs/modernizr-2.0.min.js"></script>
@@ -40,6 +41,13 @@
 			<li><a href="index.php" title="Accueil">Accueil</a>></li>
 			<li>Nous Joindre</li>
 		</ul>
+
+
+<div class="error_msg"><p>Une erreur s'est produite lors du contact avec Proactif<br>S'il vous plaît entrer une adresse email valide<br>Prénom est requis<br>Nom est requis<br>Téléphone est requis<br>Meilleur moment pour vous joindre est requis<br>Journées qui conviennent à vos disponibilités est requis</p></div>
+
+<div class="success_msg"><p>L'utilisateur a soumis les informations suivantes</p></div>
+
+
 		<h1>Vous désirez nous joindre ?</h1>
 		<article id="ContactInfo">
 			<div>
