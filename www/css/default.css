@@ -102,15 +102,27 @@ fieldset {
 	padding: 0;
 	border: 0;
 }
+legend {
+	padding-bottom: 25px;
+	font-size: 14px;
+	color: #666;
+}
 label {
+	font-size: 13px;
+	color: #666;
 	cursor: pointer;
 }
+label span {
+	color: #E41C23;
+}
 input {
+	border: 1px solid #CCC;
 	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
 	font-size: 12px;
 	color: #666;
 }
 textarea {
+	border: 1px solid #CCC;
 	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
 	font-size: 12px;
 	color: #666;
@@ -167,7 +179,7 @@ svg:not(:root) {overflow: hidden;}
 	padding-top: 13px;
 }
 #header_top > div > a:first-child {
-	padding-top: 12px;
+	padding-top: 10px;
 }
 #header_top a {
 	font-size: 12px;
@@ -176,13 +188,14 @@ svg:not(:root) {overflow: hidden;}
 	float: left;
 	display: block;
 }
-#Banque {
-	margin-left: 48px;
-	padding-top: 21px;
-}
 #header_top div div {
 	min-width: 325px;
 	float: right;
+}
+#header_top a#Proactif {
+	margin-top: 12px;
+	float: right;
+	clear: both;
 }
 #header_top div nav {
 	margin-top: 3px;
