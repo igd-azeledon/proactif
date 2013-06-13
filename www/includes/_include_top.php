@@ -1,6 +1,5 @@
 <header id="header_top">
 	<div>
-		<a href="index.php" title="PROACTIF -Assurance en cas de blessure-"><img src="images/defaults/logo_proactif.gif" alt="PROACTIF -Assurance en cas de blessure-" /></a>
 		<a href="#" title="Banque Nationale" id="Banque"><img src="images/defaults/logo_banque.gif" alt="Banque Nationale" /></a>
 		<div>
 			<nav id="SocialMedia">
@@ -18,12 +17,13 @@
 					<li><a href="/en" title="English">English</a></li>
 				</ul>
 			</nav>
-			<form action="contactenos-submit.php" id="Search" name="Search" method="post">
+			<a href="index.php" title="PROACTIF -Assurance en cas de blessure-" id="Proactif"><img src="images/defaults/logo_proactif_little.gif" alt="PROACTIF -Assurance en cas de blessure-" /></a>
+<!--			<form action="contactenos-submit.php" id="Search" name="Search" method="post">
 				<fieldset>
 					<input id="Find" name="Find" type="text" value=""/>
 					<input type="search" value="" id="Lens"/>
 				</fieldset>
-			</form>
+			</form>-->
 		</div>
 	</div>
 	<nav>
