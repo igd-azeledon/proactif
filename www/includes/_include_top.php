@@ -18,12 +18,6 @@
 				</ul>
 			</nav>
 			<a href="index.php" title="PROACTIF -Assurance en cas de blessure-" id="Proactif"><img src="images/defaults/logo_proactif_little.gif" alt="PROACTIF -Assurance en cas de blessure-" /></a>
-<!--			<form action="contactenos-submit.php" id="Search" name="Search" method="post">
-				<fieldset>
-					<input id="Find" name="Find" type="text" value=""/>
-					<input type="search" value="" id="Lens"/>
-				</fieldset>
-			</form>-->
 		</div>
 	</div>
 	<nav>
@@ -32,9 +26,9 @@
 			<li><a title="Assurance Proactif" class="sub"><span id="submenu">Assurance Proactif</span></a>
 				<div class="tooltip">
 					<a href="a-propos.php" title="&Agrave; Propos">&Agrave; Propos</a>
-					<a href="caracteristiques-prestations.php" title="Caract&eacute;ristiques Prestations">Caract&eacute;ristiques Prestations</a>
+					<a href="caracteristiques-prestations.php" title="Caract&eacute;ristiques Prestations" class="long">Caract&eacute;ristiques Prestations</a>
 					<a href="primes-prestations.php" title="Primes - Prestations">Primes - Prestations</a>
-					<a href="assistance-soins-medicaux.php" title="Assistance Soins M&eacute;dicaux">Assistance Soins M&eacute;dicaux</a>
+					<a href="assistance-soins-medicaux.php" title="Assistance Soins M&eacute;dicaux" class="medi">Assistance Soins M&eacute;dicaux</a>
 				</div>
 			</li>
 			<li><a href="trousse-dinformation.php" title="Trousse D&rsquo;Information">Trousse D&rsquo;Information</a></li>

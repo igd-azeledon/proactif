@@ -171,6 +171,8 @@ svg:not(:root) {overflow: hidden;}
 /* TOP STARTS */
 #header_top {
 	width: 100%;
+	position: relative;
+	z-index: 12;
 }
 #header_top div:first-child {
 	width: 960px;
@@ -326,11 +328,18 @@ svg:not(:root) {overflow: hidden;}
 	background: url(../images/defaults/arrow_red2.png) no-repeat right 3px;
 	text-transform: uppercase;
 	color: #00324D;
+	display: inline-block;
 	clear: both;
 }
 #header_top .tooltip a:hover {
 	background: url(../images/defaults/arrow_red2.png) no-repeat right 3px;
 	color: #E41C23;
+}
+#header_top .tooltip a.long {
+	min-width: 187px;
+}
+#header_top .tooltip a.medi {
+	min-width: 163px;
 }
 /* TOP ENDS */
 
@@ -413,13 +422,13 @@ svg:not(:root) {overflow: hidden;}
 	padding-bottom: 5px;
 	font-size: 13px;
 	line-height: 17px;
-	float: left;
 	clear: both;
 }
 #CenterContent .col_2 div sup {
 	line-height: 8px;
 }
 #CenterContent .col_2 div em {
+	padding-top: 3px;
 	padding-bottom: 10px;
 	font-size: 11px;
 	line-height: 15px;
@@ -427,6 +436,7 @@ svg:not(:root) {overflow: hidden;}
 	clear: both;
 }
 #CenterContent .col_2 div a.red_arrow {
+	min-width: 90px;
 	float: left;
 	clear: both;
 }
