@@ -91,6 +91,7 @@ td {
 	background: url(../images/page/line_td.gif) no-repeat left center;
 }
 td:first-child {
+	width: 310px;
 	background: none;
 }
 .gray {
@@ -130,8 +131,8 @@ tbody th {
 	text-align: left;
 }
 tbody td {
+	min-width: 50px;
 	line-height: 18px;
-	position: relative;
 }
 tbody td:after {
 	width: 1px;
@@ -147,6 +148,12 @@ tbody td.text {
 }
 tbody th span {
 	font-size: 12px;
+}
+.garantie td {
+	width: 100%;
+}
+.no_padding td:first-child {
+	width: auto;
 }
 
 /* TABLE CSS ENDS */
@@ -191,6 +198,9 @@ tbody th span {
 	padding: 20px 20px 5px;
 	border: 1px solid #E41C23;
 }
+#ContactInfo div:first-child {
+	margin-right: 70px;
+}
 #ContactInfo div {
 	float: left;
 }
@@ -205,12 +215,16 @@ tbody th span {
 	font-weight: bold;
 	color: #E41C23;
 }
+#ContactInfo a:hover {
+	text-decoration: underline;
+}
 #CenterContent form ul {
 	padding: 20px 0 40px;
 	border-top: 1px solid #CCC;
 	float: left;
 }
 #CenterContent form ul li {
+	margin-top: 10px;
 	padding: 0;
 	background: none;
 	float: left;

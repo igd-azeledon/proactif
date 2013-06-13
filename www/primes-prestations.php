@@ -212,7 +212,7 @@
 				</tr>
 			</tbody>
 		</table>
-		<table>
+		<table class="garantie">
 			<thead>
 				<tr>
 					<th>GARANTIE DE CONVALESCENCE</th>
