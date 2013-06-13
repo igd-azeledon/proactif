@@ -95,12 +95,13 @@ td:first-child {
 	background: none;
 }
 .gray {
-	background: #FBFBFB;
+	background-color: #FBFBFB;
 }
 .last td {
 	padding-bottom: 20px;
 }
 tbody td.center:first-child {
+	width: 100%;
 	text-align: center;
 }
 thead th {
@@ -233,8 +234,12 @@ tbody th span {
 	padding-bottom: 15px;
 	font-size: 13px;
 }
+.step1 ul {
+	width: 570px;
+}
 .step1 li {
-	width: 50%;
+	width: 47.37%;
+	margin-right: 15px;
 	float: left;
 }
 .step1 label {
@@ -247,12 +252,28 @@ tbody th span {
 	height: 22px;
 	padding: 3px;
 }
+#CenterContent .step2 ul li ul {
+	width: 570px;
+	padding: 0;
+	border-top: none;
+}
+#CenterContent .step2 ul li ul li {
+	width: 20%;
+	margin-top: 0;
+	padding: 0;
+	float: left;
+}
+.step2 p {
+	width: 570px;
+}
 .step2 label {
-	width: 85px;
-	display: inline-block;
+	width: 84px;
+	float: left;
 }
 .step2 input {
 	margin-right: 10px;
+	float: left;
+	border: none;
 }
 #CenterContent .step2 ul li, #CenterContent .step3 ul li {
 	padding-bottom: 30px;
@@ -293,6 +314,7 @@ tbody th span {
 .step3 .allow input {
 	margin-right: 10px;
 	float: left;
+	border: none;
 }
 .step3 .allow label {
 	width: 94%;

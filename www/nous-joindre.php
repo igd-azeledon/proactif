@@ -87,13 +87,15 @@
 							<input type="checkbox" name="availability_morning" id="availability_morning" value="0"/><label for="availability_morning">En matinée</label>
 							<input type="checkbox" name="availability_evening" id="availability_evening" value="1"/><label for="availability_evening">En après-midi</label>
 						</li>
-						<li class="no_padding">
+						<li class="no_padding clearfix">
 							<p>Cochez les journées qui conviennent à vos disponibilités :</p>
-							<input type="checkbox" name="availability_monday" id="availability_moday" value="1"/><label for="availability_monday">Lundi</label>
-							<input type="checkbox" name="availability_tuesday" id="availability_tuesday" value="1"/><label for="availability_tuesday">Mardi</label>
-							<input type="checkbox" name="availability_wednesday" id="availability_wednesday" value="1"/><label for="availability_wednesday">Mercredi</label>
-							<input type="checkbox" name="availability_thursday" id="availability_thursday" value="1"/><label for="availability_thursday">Jeudi</label>
-							<input type="checkbox" name="availability_friday" id="availability_friday" value="1"/><label for="availability_friday">Vendredi</label>
+							<ul>
+								<li><input type="checkbox" name="availability_monday" id="availability_moday" value="1"/><label for="availability_monday">Lundi</label></li>
+								<li><input type="checkbox" name="availability_tuesday" id="availability_tuesday" value="1"/><label for="availability_tuesday">Mardi</label></li>
+								<li><input type="checkbox" name="availability_wednesday" id="availability_wednesday" value="1"/><label for="availability_wednesday">Mercredi</label></li>
+								<li><input type="checkbox" name="availability_thursday" id="availability_thursday" value="1"/><label for="availability_thursday">Jeudi</label></li>
+								<li><input type="checkbox" name="availability_friday" id="availability_friday" value="1"/><label for="availability_friday">Vendredi</label></li>
+							</ul>
 						</li>
 					</ul>
 				</fieldset>
