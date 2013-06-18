@@ -1,21 +1,28 @@
 /* GENERAL DEFINITIONS STARTS */
-body {
-
-}
-
-h1 {
-	font-size: 50px;
-	text-align: center
-}
-
-#PageContent{
-	display:block;
-	text-align: left;
+.error_msg {
 	width: 500px;
-	margin: 0 auto;
+	margin-bottom: 30px;
+	padding: 20px 20px 5px;
+	border: 1px solid #E41C23;
 }
-a {
+.error_msg p {
+	font-size: 15px;
+	line-height: 20px;
+	font-weight: bold;
+	text-align: center;
+	color: #E41C23;
 }
-a:hover {
+.success_msg {
+	width: 500px;
+	margin-bottom: 30px;
+	padding: 20px 20px 5px;
+	border: 1px solid #0C6;
+}
+.success_msg p {
+	font-size: 15px;
+	line-height: 20px;
+	font-weight: bold;
+	text-align: center;
+	color: #0C6;
 }
 /* FOOTER ENDS*/

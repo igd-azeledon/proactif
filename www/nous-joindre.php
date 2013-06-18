@@ -18,6 +18,7 @@
 <!--CSS STARTS-->
 <link rel="stylesheet" type="text/css" href="css/default.css" />
 <link rel="stylesheet" type="text/css" href="css/page.css" />
+<link rel="stylesheet" type="text/css" href="css/error.css" />
 <!--CSS ENDS-->
 
 <script src="js/libs/modernizr-2.0.min.js"></script>
