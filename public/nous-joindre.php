@@ -48,6 +48,7 @@
 <div class="success_msg"><p>L'utilisateur a soumis les informations suivantes</p></div>
 
 
+		<h2>Vous avez des questions ?<br />Nous y répondrons avec plaisir !</h2>
 		<h1>Vous désirez nous joindre ?</h1>
 		<article id="ContactInfo">
 			<div>
@@ -61,8 +62,8 @@
 			</div>
 		</article>
 		<article>
-			<h2>Laissez-nous vous rappeler</h2>
-			<p>Dites-nous quand et à quel numéro!<br /><em>*Prévoir un délai de deux jours ouvrables</em></p>
+			<h2>Laissez-nous vous rappeler*</h2>
+			<p>Dites-nous quand et à quel numéro!<br /><em>* Prévoir un délai de deux jours ouvrables</em></p>
 			<form name='contact' method='post' action='send_email.php'>
 				<input type="hidden" name="lang" value="fr"/>
 				<input type="hidden" name="seed" value="<?php echo $_SESSION['seed']?>"/>
@@ -122,7 +123,7 @@
 							<textarea name='comments' id='comments'></textarea>
 						</li>
 						<li class="allow">
-							<input type="checkbox" name="allow_contact" id="allow_contact" value="1"/><label for="allow_contact">Je désire que l’on communique avec moi par téléphone ou par courriel concernant les produits et services de Banque Nationale Assurances.</label>
+							<input type="checkbox" name="allow_contact" id="allow_contact" value="1"/><label for="allow_contact">J’accepte que l’on communique avec moi par téléphone ou par courriel concernant les produits et services de Banque Nationale Assurances.</label>
 						</li>
 					</ul>
 				</fieldset>

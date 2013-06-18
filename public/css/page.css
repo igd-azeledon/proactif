@@ -191,6 +191,7 @@ tbody th span {
 	margin: 0 0 0 10px;
 	padding-left: 30px;
 	text-align: left;
+	text-decoration: none;
 	display: inline-block;
 }
 #PageContent #ContactInfo {
@@ -200,7 +201,7 @@ tbody th span {
 	border: 1px solid #E41C23;
 }
 #ContactInfo div:first-child {
-	margin-right: 70px;
+	margin-right: 40px;
 }
 #ContactInfo div {
 	float: left;
@@ -215,6 +216,7 @@ tbody th span {
 	font-size: 25px;
 	font-weight: bold;
 	color: #E41C23;
+	line-height: 25px;
 }
 #ContactInfo a:hover {
 	text-decoration: underline;
@@ -329,5 +331,28 @@ input.more {
 	padding-left: 35px;
 	border: none;
 	text-align: left;
+}
+h3 span .mail {
+	text-decoration: underline;
+}
+h3 span .mail:hover {
+	text-decoration: none;
+}
+.haut {
+	width: 50px;
+	height: 22px;
+	margin: 5px 0 35px;
+	padding: 9px 0 0 26px;
+	background-color: #00324D;
+	font-size: 11px;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #FFF !important;
+	display: block;
+	float: right;
+	clear: both;
+}
+.haut:hover {
+	background-color: #E41C23;
 }
 /* PAGE ENDS */

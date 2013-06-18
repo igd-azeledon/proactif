@@ -32,24 +32,24 @@
 		<a href="#" id="prev"></a>
 		<a href="#" id="next"></a>
 		<div id="imagenes_portafolio">
-                        <div>
-				<h2>Parce qu’un accident<br />est si vite arrivé</h2>
+			<div>
+				<h2>Parce qu’un accident<br /> est si vite arrivé</h2>
 				<img src="images/index/banner_05.jpg" alt="Parce qu’un accident est si vite arrivé" />
 			</div>
-                        <div>
-				<h2 class="different">Trois niveaux de protection: Un coup de main pour vous remettre sur pied</h2>
+			<div>
+				<h2 class="different">Trois niveaux de protection: un coup de main pour vous remettre sur pied</h2>
 				<img src="images/index/banner_04.jpg" alt="Trois niveaux de protection: Un coup de main pour vous remettre sur pied" />
 			</div>
-                        <div>
-				<h2>Un programme<br />d’assistance exclusif</h2>
+			<div>
+				<h2>Un programme<br /> d’assistance exclusif</h2>
 				<img src="images/index/banner_03.jpg" alt="Un programme d’assistance exclusif" />
 			</div>
-                        <div>
-				<h2 class="different">Concentrez-vous sur la guérison, on s’occupe de votre sécurité financière</h2>
+			<div>
+				<h2 class="different">Concentrez-vous sur la guérison, on s’occupe de votre sécurité financière!</h2>
 				<img src="images/index/banner_02.jpg" alt="Concentrez-vous sur la guérison, on s’occupe de votre sécurité financière" />
 			</div>
 			<div>
-				<h2>Deux prestations plutôt qu’une : <strong>+25%</strong> de la prestation en cas de blessure</h2>
+				<h2 class="different">Deux prestations plutôt qu’une : <strong>+25%</strong> de la prestation en cas de blessure</h2>
 				<img src="images/index/banner_01.jpg" alt="Deux prestation pour le prix d’une : une garantie de convalescence" />
 			</div>
 		</div>
@@ -65,21 +65,21 @@
 		<article>
 			<h1>ProActif, Assurance en cas de blessure</h1>
 			<p>Parce qu’un accident est si vite arrivé, <strong>ProActif, Assurance en cas de blessure</strong> vous aide à surmonter les imprévus financiers et à vous concentrer sur votre rétablissement.</p>
-			<p><strong>ProActif, Assurance en cas de blessure</strong> vous offre une protection abordable en cas de fracture, de dislocation, de brûlure ou de paralysie afin de minimiser les conséquences d’un tel accident.</p>
+			<p><strong>ProActif, Assurance en cas de blessure</strong>vous offre une protection abordable en cas de fracture, de dislocation, de brûlure ou de paralysie afin de minimiser les conséquences d’un tel accident.</p>
 			<a href="#" class="more">En Savoir Plus</a>
 			<div class="col_2">
 				<img src="images/index/image_01.jpg" alt="" />
 				<div>
 					<h2>Saviez-vous que...</h2>
 					<p>Chaque année, environ 4 millions de blessures limitent les Canadiens dans leurs activités quotidiennes.<sup>1</sup></p>
-					<em>1 Statistique Canada, Enquête annuelle sur la santé dans les collectivités canadiennes</em>
+					<em>1. Statistique Canada, Enquête annuelle sur la santé dans les collectivités canadiennes</em>
 					<a href="#" class="red_arrow">En savoir plus</a>
 				</div>
 			</div>
 		</article>
 		<hr />
 		<article>
-			<h2>Assistance soins médicaux  : Un programme de soutien en soins de santé </h2>
+			<h2>Assistance soins médicaux : Un programme de soutien en soins de santé</h2>
 			<p>Adhérer à <strong>ProActif, Assurance en cas de blessure</strong> c’est également bénéficier du programme <strong>Assistance soins médicaux</strong>, un service de soutien médical complet et personnalisé !</p>
 			<a href="#" class="more">En Savoir Plus</a>
 		</article>
