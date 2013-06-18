@@ -2,17 +2,17 @@
 	<div>
 		<a href="#" title="Banque Nationale" id="Banque"><img src="images/defaults/logo_banque.gif" alt="Banque Nationale" /></a>
 		<div>
-			<nav id="SocialMedia">
+<!--			<nav id="SocialMedia">
 				<ul>
 					<li><a href="#" title="Facebook" class="facebook"></a></li>
 					<li><a href="#" title="Twitter" class="twitter"></a></li>
 					<li><a href="#" title="Youtube" class="youtube"></a></li>
 					<li><a href="#" title="Linkedin" class="linkedin"></a></li>
 				</ul>
-			</nav>
+			</nav>-->
 			<nav>
 				<ul>
-					<li><a href="#" title="FAQ">FAQ</a>|</li>
+					<!--<li><a href="#" title="FAQ">FAQ</a>|</li>-->
 					<li><a href="nous-joindre.php" title="Nous Joindre">Nous Joindre</a>|</li>
 					<li><a href="/en" title="English">English</a></li>
 				</ul>

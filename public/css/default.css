@@ -29,10 +29,19 @@ h3 {
 	font-weight: bold;
 	color: #00324D;
 }
+h3 span {
+	color: #E41C23;
+}
 p {
 	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
 	font-size: 15px;
 	color: #666;
+}
+p a {
+	text-decoration: underline;
+}
+p a:hover {
+	text-decoration: none;
 }
 em {
 	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
@@ -354,6 +363,9 @@ svg:not(:root) {overflow: hidden;}
 #PageContent h1, #PageContent h2 {
 	padding-bottom: 20px;
 }
+#PageContent h3 {
+	padding-bottom: 10px;
+}
 #PageContent p {
 	padding-bottom: 20px;
 }
@@ -570,9 +582,9 @@ footer ul {
 	width: 550px;
 	float: right;
 }
-footer li:first-child {
+/*footer li:first-child {
 	padding-top: 0;
-}
+}*/
 footer li {
 	padding: 12px 0 0 30px;
 	float: right;

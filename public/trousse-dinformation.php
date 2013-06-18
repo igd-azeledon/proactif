@@ -35,16 +35,17 @@
 			<li><a href="index.php" title="Accueil">Accueil</a>></li>
 			<li>Trousse d’information</li>
 		</ul>
-		<h1>Votre satisfaction est garantie!</h1>
+		<p><em>Procurez-vous votre trousse d’information en ligne</em></p>
+		<h1>Votre satisfaction est garantie !</h1>
 		<article>
-			<p>Votre protection débute dès que nous recevons votre Formulaire d’adhésion dûment rempli. La première prime sera prélevée de votre compte 10 jours plus tard.</p>
+			<p>Votre protection débute dès que nous recevons votre <a href="#" title="Formulaire d’adhésion">Formulaire d’adhésion</a> dûment rempli. La première prime sera prélevée de votre compte 10 jours plus tard.</p>
 			<p>Si vous n’en êtes pas satisfait à 100 %, vous n’avez qu’à nous retourner la police dans les 30 jours et nous vous rembourserons intégralement toutes les primes versées, sans <strong>aucune obligation</strong> de votre part.</p>
 			<p>Pour tout complément d’information, remplir un formulaire d’adhésion ou compléter un formulaire de réclamation, consultez les documents qui suivent.</p>
 			<ul id="Documents">
-				<li><a href="#" title="Formulaire d’adhésion ProActif, Assurance en cas de blessure">Formulaire d’adhésion <strong>ProActif, Assurance en cas de blessure (<img src="images/page/icon_acrobat.gif" alt="Acrobat document" />)</a></strong></li>
-				<li><a href="#" title="Formulaire de réclamation ProActif, Assurance en cas de blessure">Formulaire de réclamation <strong>ProActif, Assurance en cas de blessure (<img src="images/page/icon_acrobat.gif" alt="Acrobat document" />)</a></strong></li> 
-				<li><a href="#" title="Dépliant ProActif, Assurance en cas de blessure">Dépliant <strong>ProActif, Assurance en cas de blessure (<img src="images/page/icon_acrobat.gif" alt="Acrobat document" />)</a></strong></li> 
-				<li><a href="#" title="Dépliant Assistance soins médicaux">Dépliant <strong>Assistance soins médicaux (<img src="images/page/icon_acrobat.gif" alt="Acrobat document" />)</a></strong></li> 
+				<li><a href="#" title="Dépliant ProActif, Assurance en cas de blessure">Dépliant <strong>ProActif, Assurance en cas de blessure (<img src="images/page/icon_acrobat.gif" alt="Acrobat document" />)</strong></a></li>
+				<li><a href="#" title="Dépliant Assistance soins médicaux">Dépliant <strong>Assistance soins médicaux (<img src="images/page/icon_acrobat.gif" alt="Acrobat document" />)</strong></a></li>
+				<li><a href="#" title="Formulaire d’adhésion ProActif, Assurance en cas de blessure">Formulaire d’adhésion <strong>ProActif, Assurance en cas de blessure (<img src="images/page/icon_acrobat.gif" alt="Acrobat document" />)</strong></a></li>
+<!--				<li><a href="#" title="Formulaire de réclamation ProActif, Assurance en cas de blessure">Formulaire de réclamation <strong>ProActif, Assurance en cas de blessure (<img src="images/page/icon_acrobat.gif" alt="Acrobat document" />)</a></strong></li>-->
 			</ul>
 			<p class="joindre">Vous préférez nous parler ? <a href="nous-joindre.php" class="more">Nous joindre</a></p>
 		</article>

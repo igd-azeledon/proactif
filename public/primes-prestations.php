@@ -38,7 +38,8 @@
 		</ul>
 		<article>
 			<h2>ProActif, Assurance en cas de blessure vous offre trois niveaux de protection.</h2>
-			<p class="no_padding">Vous pouvez modifier votre niveau de protection en tout temps, en téléphonant à l’un de nos agents.</p>
+			<!--<p>Vous pouvez modifier votre niveau de protection en tout temps, en téléphonant à l’un de nos agents.</p>-->
+            <p class="no_padding"><em>*La police d’assurance contient des termes, les renseignements complets sur les prestations de même que sur les exclusions, restrictions et limitations qui peuvent s’appliquer.</em></p>
 		</article>
 		<hr />
 		<h1>TABLEAU DES PRESTATIONS</h1>

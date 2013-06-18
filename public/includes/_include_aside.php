@@ -1,8 +1,8 @@
 <aside>
 	<article>
 		<h2>Appelez maintenant</h2>
-		<h2>1 855 871-4945 <span>1 877 871-7500</span></h2>
-                <p>Et préservez votre qualité de<br /> vie et votre autonomie financi&egrave;re !</p>
+		<h2><span>1 877 871-7500</span></h2>
+		<p>Et pr&eacute;servez votre qualit&eacute; de vie<br />et votre autonomie financi&egrave;re !</p>
 	</article>
 	<article>
 		<h2>D&eacute;couvrez nos diff&eacute;rents produits d&rsquo;assistance</h2>
@@ -33,14 +33,8 @@
 			<li>
 				<a href="#" title="Assurance auto">Assurance auto</a>
 			</li>
-			<li>
+			<li class="last">
 				<a href="#" title="Assurance habitation">Assurance habitation</a>
-			</li>
-			<li>
-				<a href="#" title="Assurance voyage">Assurance voyage</a>
-			</li>
-                        <li class="last">
-				<a href="#" title="Assurance voyageAss">Assurance voyageAss</a>
 			</li>
 		</ul>
 	</article>
