@@ -14,10 +14,10 @@
 				<a href="#" title="Assistance soins m&eacute;dicaux">Assistance soins m&eacute;dicaux</a>
 			</li>
 			<li>
-				<a href="#" title="S&eacute;curiZone">S&eacute;curiZone</a>
+				<a href="https://www.bncsecurizone.ca/index.html" title="S&eacute;curiZone">S&eacute;curiZone</a>
 			</li>
 			<li class="last">
-				<a href="#" title="Assistance RH">Assistance RH</a>
+				<a href="http://www.bnc.ca/bnc/cda/productfamily/0,2664,divId-2_langId-2_navCode-18101,00.html" title="Assistance RH">Assistance RH</a>
 			</li>
 		</ul>
 	</article>
@@ -25,16 +25,16 @@
 		<h2>Profitez de solutions d&rsquo;assurance sur mesure !</h2>
 		<ul class="different_list">
 			<li>
-				<a href="#" title="Assurance Belle et Bien Femme">Assurance Belle et Bien Femme</a>
+				<a href="http://www.belleetbienfemme.ca/" title="Assurance Belle et Bien Femme">Assurance Belle et Bien Femme</a>
 			</li>
 			<li>
-				<a href="#" title="Assurance vie &agrave; Acceptation garantie">Assurance vie &agrave; Acceptation garantie</a>
+				<a href="http://www.50etplus.ca/" title="Assurance vie &agrave; Acceptation garantie">Assurance vie &agrave; Acceptation garantie</a>
 			</li>
 			<li>
-				<a href="#" title="Assurance auto">Assurance auto</a>
+				<a href="http://www.assurances-bnc.ca/fr/assurance_automobile/introduction.jsp" title="Assurance auto">Assurance auto</a>
 			</li>
 			<li class="last">
-				<a href="#" title="Assurance habitation">Assurance habitation</a>
+				<a href="http://www.assurances-bnc.ca/fr/assurance_habitation/informations_generales.jsp" title="Assurance habitation">Assurance habitation</a>
 			</li>
 		</ul>
 	</article>

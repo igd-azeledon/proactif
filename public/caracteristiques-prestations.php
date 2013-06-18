@@ -24,7 +24,7 @@
 <?php include_once("includes/_include_top.php"); ?>
 <!--TOP ENDS-->
 
-<section class="banner pic2"><div><h2 class="different">Deux prestation pour le prix d’une : une garantie de convalescence</h2></div></section>
+<section class="banner pic2"><div><h2 class="different">Deux prestations plutôt qu’une :<br /><strong>+25%</strong> de la prestation en cas de blessure</h2></div></section>
 
 <!--PAGE CONTENT STARTS-->
 <section id="PageContent">
@@ -40,7 +40,7 @@
 		<article class="no_padding">
 			<h2>Pour vous aider à faire face aux dépenses imprévues</h2>
 			<p><strong>ProActif, Assurance en cas de blessure</strong> s’adapte à votre budget et vous offre trois niveaux de protection.</p>
-			<p>Selon le niveau choisi, vous profitez d’un soutien financier pouvant aller</p>
+			<p>Selon le niveau choisi, vous profitez d’un soutien financier pouvant aller :</p>
 			<ul>
 				<li>Jusqu’à <strong>187 500 $</strong> en cas de paralysie</li>
 				<li>Jusqu’à <strong>18 750 $</strong> par accident en cas de fracture, dislocation ou brûlure.</li>
@@ -66,7 +66,6 @@
 				<li>Pour payer des frais de services ménagers, de restauration ou, selon l’ampleur de vos blessures, pour réaménager votre demeure.</li>
 			</ul>
 			<p>Si vous recevez déjà une prestation d’un régime privé ou gouvernemental, ou que votre rétablissement ne nécessite ni hospitalisation ni arrêt de travail, nous vous versons tout de même en totalité les prestations correspondant à votre niveau de protection.</p>
-			<p><strong>Et toutes ces prestations sont cumulatives et non imposables!</strong></p>
 		</article>
 	</section>
 <!--CENTER CONTENT ENDS-->
