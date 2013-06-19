@@ -174,9 +174,9 @@ Le même principe existe avec les messages textes. Dans ce cas, il s’agit d’
 			<li>
 				<h3>Firefox 1.5 à 3</h3>
 				<ol>
-					<li>Dans le menu Outils, sélectionner Effacer mes traces.</li>
-					<li>Cocher seulement Cookies et Cache.</li>
-					<li>Cliquer sur Effacer mes traces maintenant.</li>
+					<li>Dans le menu <strong>Outils</strong>, sélectionner <strong>Effacer mes traces</strong>.</li>
+					<li>Cocher seulement <strong>Cookies</strong> et <strong>Cache</strong>.</li>
+					<li>Cliquer sur <strong>Effacer mes traces maintenant</strong>.</li>
 				</ol>
 			</li>
 			<li>

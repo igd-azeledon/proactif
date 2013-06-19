@@ -31,66 +31,66 @@
 	<section id="CenterContent">
 		<h1>CONFIDENTIALITY POLICY</h1>
 		<h2>Strictly Between You and Us</h2>
-		<p>Chez Banque Nationale Assurances<sup>1</sup>, nous avons toujours accordé beaucoup d’importance et de soin à la protection de vos renseignements.</p>
-		<p>Dans le but de nous assurer que vos droits à cet égard sont pleinement respectés, nous avons élaboré des politiques et procédures en matière de confidentialité de l’information lesquelles visent la protection des renseignements personnels. Notre engagement à cet égard fait partie intégrante de notre Code de déontologie, dont l’observance constitue une condition stricte d’emploi.</p>
-		<p>Vous pouvez communiquer avec l’Officier d’accès aux renseignements personnels à l’adresse suivante :</p>
-		<h3>Assurance-vie Banque Nationale<br />1100, rue University, 5e étage<br />Montréal QC<br />H3B 2G7</h3><br />
-		<em>1. Désigne Banque Nationale Assurances; Assurance-vie Banque Nationale, Compagnie d’assurance-vie; et ses agents et employés qui font la promotion et la vente des produits d’assurance.</em>
+		<p>At National Bank Insurance<sup>1</sup>, your privacy is a priority. As such, we have always taken the utmost care to safeguard your personal information.</p>
+		<p>We have developed confidentiality policies and procedures to protect your personal information and thereby ensure that your privacy rights are fully respected. Our commitment to privacy is an integral part of our Code of Professional Conduct, which our employees are required to follow as a condition of employment.</p>
+		<p>You may contact the Personal Information Access Officer at the following address:</p>
+		<h3>National Bank Life Insurance Company<br />1100 University, 5th Floor<br />Montreal, Quebec<br />H3B 2G7</h3><br />
+		<em>1. Refers to National Bank Insurance and National Bank Life Insurance Company whose agents and employees promote and sell insurance products under the National Bank Insurance name.</em>
 		<p>&nbsp;</p>
 		<hr />
-		<h2>Une question de service</h2>
-		<p>Afin d'être en mesure de vous offrir les produits et services que vous souhaitez obtenir, nous avons besoin d'obtenir un minimum de renseignements personnels à votre sujet. À cet égard, vous constituez notre principale source de renseignements. Par exemple, lors d'une demande d’adhésion, nous vous demandons vos nom, adresse et numéro de téléphone. Ces collectes de renseignements à votre sujet pourront parfois se faire par l’entremise de tiers tels nos fournisseurs de services. De plus nous pourrions également communiquer certains renseignements personnels avec d'autres assureurs ou agences de renseignements lors du règlement de vos réclamations.</p>
-		<p>Dans la plupart des cas, votre consentement est consigné par notre système automatisé d'enregistrement des appels ou sur le formulaire d’adhésion. Il peut également être consigné dans votre dossier de réclamation.</p>
+		<h2>A matter of service</h2>
+		<p>In order for us to provide you with the products and services you want, we need a minimum amount of personal information. Most of that information comes from you. For example, when filling out an Enrollment Form, we ask for your name, address and telephone number. In certain situations, collection of your personal information on may be done by one of our service providers, on our behalf. We may also share personal information with other insurers or information agencies when settling your claims.</p>
+		<p>In most cases, your consent is recorded by our automated call recording system or on the quotation request form. It may also be recorded in your claims file.</p>
 		<hr />
-		<h2>Une question d'identification</h2>
-		<p>Il est possible que nous ayons besoin de votre numéro d'assurance sociale, par exemple, si les renseignements dont nous disposons au moment de la demande d’adhésion ne nous permettent pas d'obtenir l'information nécessaire auprès des bureaux de crédit consultés pour établir votre admissibilité à nos produits et services. Vous avez la faculté de refuser de fournir votre numéro d'assurance sociale pour fins d'identification mais nous croyons qu'il peut nous aider, dans certains cas, à vous distinguer d'un autre client au nom identique.</p>
+		<h2>A matter of identification</h2>
+		<p>We may need your social insurance number when, for example, the information in our possession at the time a quotation is requested is not sufficient to obtain the necessary information from the credit bureaus that we consult to determine your eligibility for products and services. While you can always refuse to give us your social insurance number, we believe that in some cases, it can help us differentiate you from other clients with the same name.</p>
 		<hr />
-		<h2>Une question de choix</h2>
-		<p>Nous obtenons également votre consentement afin de vous proposer, par télémarketing<sup>1</sup> ou autrement, des produits et services susceptibles de vous convenir et de vous intéresser. Le consentement que vous donnez à cette fin a préséance sur la liste nationale des numéros de télécommunication exclus<sup>2</sup>. Si vous ne désirez plus être informé au sujet des produits et services de Assurance-vie Banque Nationale vous pouvez, en tout temps, nous faire part de votre choix en communiquant avec notre Service à la clientèle.  Votre nom sera alors rayé de la liste que nous dressons à cette fin.  Soyez assuré que votre choix n'affectera aucunement le service qui vous est offert.  Cette démarche n'aura pas pour effet de limiter les messages diffusés avec toute autre communication relative à votre contrat d'assurance, de même que la remise de toute information sur nos produits et services.</p>
-		<em>1. Le télémarketing consiste à utiliser les installations de télécommunication pour faire des appels téléphoniques non sollicités ou envoyer des télécopies non sollicitées à des consommateurs à des fins de sollicitation.</em><br />
-		<em>2. Pour plus d'information au sujet de la Liste nationale des numéros de télécommunication exclus, nous vous invitons à visiter le site <a href="https://www.lnnte-dncl.gc.ca/">http://www.lnnte-dncl.gc.ca/</a> ou à téléphoner au <strong>1 866 580-3625</strong>.</em>
+        
+		<h2>A matter of choice</h2>
+		<p>We also obtain your consent to propose products and services, through telemarketing<sup>1</sup> or otherwise, that might interest you or suit your needs. The consent you provide for this purpose has precedence over the National Do Not Call List.<sup>2</sup> If at some point you decide that you no longer wish to be informed about the products and services offered by National Bank Life Insurance Company, you can contact our Customer Service Department and your name will be removed from the list that we prepare for this purpose. Your choice will have no effect on the service you receive. If you choose to have your name removed from the list, you will still receive the messages that are normally sent from time to time with your renewal notices or other communications relating to your insurance contract, and our staff will continue to personally provide information to you on our products and services.</p>
+		<em>1. Telemarketing consists in using telecommunication installations to make non-solicited telephone calls or send non-solocited faxes to consumers for solicitation purposes.</em><br />
+		<em>2. For further information about the National Do Not Call List, go to <a href="http://www.lnnte-dncl.gc.ca/">http://www.lnnte-dncl.gc.ca/</a> or call <strong>1 866 580-3625</strong>.</em>
 		<p>&nbsp;</p>
 		<hr />
-		<h2>Une question de respect</h2>
-		<h3>Si la prestation de service le requiert</h3>
-		<p>Dans l'accomplissement de certaines tâches, comme l'envoi de communications personnalisées, nous faisons appel à des fournisseurs. Dans certains cas, ces fournisseurs peuvent être établis aux États-Unis.  Ces fournisseurs ne pourront avoir accès, le cas échéant, qu’aux renseignements dont ils ont besoin afin de nous rendre le service. D’autre part, nous exigeons un engagement formel de ces fournisseurs quant à la protection de vos renseignements personnels. Pour toute question relative aux services rendus par nos fournisseurs ou pour connaître les pays d’où ces derniers sont susceptibles d’avoir accès à vos renseignements personnels aux fins résumées plus haut, veuillez communiquer avec l’Officier d’accès aux renseignements personnels à l’adresse mentionnée ci-dessus.</p>
-		<h3>Si la loi l'exige</h3>
-		<p>Nous sommes légalement tenus de communiquer un renseignement qui vous concerne lorsque des demandes valides, un mandat de perquisition, une citation à comparaître ou d'autres ordonnances d'une cour de justice ou d'un gouvernement nous sont présentés ou sont présentés à l'un de nos fournisseurs de services. Ces demandes sont susceptibles de provenir des autorités canadiennes ou étrangères, notamment américaines.</p>
-		<h3>Si nous devons protéger nos propres intérêts</h3>
-		<p>Dans le cadre de procédures judiciaires qui nous impliquent, nous pourrions devoir dans certains cas communiquer de notre propre chef des renseignements personnels qui vous concernent.</p>
-		<h3>Si l'intérêt public est en jeu</h3>
-		<p>De plus, nous avons le devoir de dénoncer les fraudes, le blanchiment d'argent ou les actes criminels. Dans tous ces cas, les autorités seront contactées et des renseignements pourraient être communiqués.</p>
-		<p>Dans certaines circonstances, nous devrons communiquer vos renseignements à des tiers. Ce faisant, nous prendrons soin d’en assurer la protection.</p>
+		<h2>A matter of compliance</h2>
+		<h3>If required to serve you</h3>
+		<p>Certain activities, such as one-to-one communications, are conducted through outside suppliers. In some case, those suppliers may be established in the United States. When applicable, these suppliers will only have access to the information they need to provide the service. We require a formal commitment from them to respect the confidentiality of any such information. If you have questions concerning the services rendered by our suppliers or the countries from which they may have access to your personal information for the purposes explained herein, please contact the Privacy agent at the above-mentioned address.</p>
+		<h3>If required by law</h3>
+		<p>National Bank Insurance is legally required to disclose information about you when it or one of its service providers receives a valid request, search warrant, subpoena or other government or court order. Such requests may come from Canadian or foreign – in particular, American – authorities.</p>
+		<h3>If required to protect our own interests</h3>
+		<p>When we are involved in court proceedings, we may have to disclose personal information about you.</p>
+		<h3>If public interest in endangered</h3>
+		<p>We also have a duty to report fraud, money laundering or other criminal acts. In those cases, the authorities are contacted and information may be disclosed.</p>
 		<hr />
-		<h2>Une question d'accès</h2>
-		<p>Afin de vous offrir les services relatifs à votre contrat d'assurance et de faire le suivi de ce contrat, nous constituons un dossier dans lequel nous consignons vos renseignements personnels. L'accès à ce dossier est limité aux personnes autorisées à le consulter. Nous vous informons que vous pouvez consulter les renseignements que nous détenons sur vous sans frais. À cette fin, nous vous demandons de formuler votre requête à l’Officier d’accès aux renseignements personnels à l'adresse suivante :</p>
-		<h3>Assurance-vie Banque Nationale<br />1100, rue University, 5e étage<br />Montréal QC<br />H3B 2G7</h3>
-		<p>Nous donnerons suite à votre demande dans un délai de trente (30) jours de sa réception.</p>
+		<h2>A matter of access</h2>
+		<p>So we can offer you services in relation to your insurance contract and follow up on your contract, we create a file in which we record your personal information. The file can only be consulted by individuals who are so authorized. You may consult the information we hold on you free of charge by sending a request to the Personal Information Access Officer at the following address:</p>
+		<h3>National Bank Insurance Company<br />1100 University, 5th Floor<br />Montreal, Quebec<br />H3B 2G7</h3>
+		<p>We will act on your request within 30 days of receipt.</p>
 		<hr />
-		<h2>Une question d'exactitude</h2>
-		<p>Nous mettons tout en œuvre afin de conserver vos renseignements à jour. Nous comptons sur votre collaboration pour nous aviser de tout changement relatif à vos renseignements. De plus, si vous notez des erreurs ou des inexactitudes dans ces renseignements, faites-nous en part et nous apporterons les correctifs nécessaires. Dans ce cas, si nous avons communiqué vos renseignements à des tiers, nous ferons notre possible pour porter ces corrections à leur connaissance. Enfin, si vous omettez de nous aviser d'un changement, vous devrez malheureusement en assumer les conséquences et ne pourrez nous tenir responsable des dommages que vous pourriez subir.</p>
+		<h2>A matter of accuracy</h2>
+		<p>We make every effort to keep your personal information up to date. We rely on your cooperation in ensuring that we are apprised of any changes to your information. In addition, if you notice any errors or inaccuracies, let us know and we will make the necessary corrections. In such situations, if we have conveyed incorrect information to third parties, we will do everything possible to bring the corrections to their attention. Finally, if you fail to notify us of a change, you will, unfortunately, have to assume the consequences and will not be able to hold us liable for any damages you may incur.</p>
 		<hr />
-		<h2>Une question de sécurité</h2>
-		<p>Nous prenons les précautions nécessaires afin de protéger vos renseignements contre la perte, la destruction, le vol, la consultation, la communication, la reproduction, l’utilisation et la modification non autorisées, et ce, quelle que soit la forme sous laquelle ils sont conservés et l’endroit où ils se trouvent. Nous avons mis en place différentes mesures de sécurité telles que :</p>
+		<h2>A matter of security</h2>
+		<p>We take precaution to protect your information against loss, destruction and theft, and to safeguard it against unauthorized access, disclosure, copying, use or modification, regardless of the format in which it is held or where it is found. Various safeguards have been put in place, including:</p>
 		<ul>
-			<lI><strong>Moyens physiques :</strong> ils comportent notamment la protection des infrastructures, tels l’accès sécurisé de nos locaux et l’emplacement sécuritaire des équipements;</lI>
-			<li><strong>Mesures administratives :</strong> elles visent à limiter l’accès aux renseignements qui vous concernent. Ainsi, seuls les employés qui ont besoin de consulter vos renseignements dans le cadre de leur travail y ont accès;</li>
-			<li><strong>Mesures techniques :</strong> elles visent à maintenir un environnement technologique hautement sécurisé.</li>
+			<lI><strong>Physical safeguards :</strong> which include infrastructure protection measures such as access to our premises and ensuring that equipments are located in a secure setting.</lI>
+			<li><strong>Administrative safeguards :</strong> which limit access to your personal information so that it is only accessible to employees who need to consult it in the performance of their duties.</li>
+			<li><strong>Technical safeguards :</strong> aimed at maintaining a highly secure technological environment.</li>
 		</ul>
 		<hr />
-		<h2>Une question de conservation et de destruction</h2>
-		<p>Les renseignements à votre sujet sont conservés uniquement pour la période correspondant à celle où le service vous est rendu. Selon le produit ou le service offert, cette période de conservation peut varier. Même si vous avez cessé de faire affaire avec nous, il est possible que nous conservions certains renseignements, entre autres raisons, parce que la loi le requiert, afin de régler des transactions futures ou pour être en mesure de faire la preuve de transactions passées. Lorsque ces renseignements ne sont plus nécessaires, ils sont détruits. Dans le cadre du processus de destruction, nous observons des règles strictes et veillons aussi à empêcher toute personne non autorisée à y avoir accès.</p>
+		<h2>A matter of retention and destruction</h2>
+		<p>As your personal information is retained for as long as is necessary to provide the service for which it is collected, the retention period depends on the product or service. If you stop doing business with us, we may keep some information in order to comply with the law, settle future transactions or look up past transactions. When such information is no longer necessary, it is destroyed. When destroying personal information, we follow strict procedures and take steps to prevent unauthorized persons from gaining access to it.</p>
 		<hr />
-		<h2>Une question à formuler ?</h2>
-		<p>Si vous avez des questions ou des commentaires à formuler au sujet de la gestion de vos renseignements, vous pouvez vous adresser en tout temps à l’Officier d’accès aux renseignements personnels à l'adresse suivante :</p>
-		<h3>Assurance-vie Banque Nationale<br />1100, rue University, 5e étage<br />Montréal QC<br />H3B 2G7</h3><br />
-		<p>Vous avez également le choix de contacter le bureau du Commissaire à la protection de la vie privée du Canada à l'adresse suivante :</p>
-		<h3>Commissaire à la protection de la vie privée du Canada<br />112, rue Kent<br />Place de ville, Tour B, 3e étage<br />Ottawa ON<br />K1A 1H3</h3>
-		<h3>Téléphone : <span>613 947-1698</span><br />Numéro sans frais : <span>1 800 282-1376</span></h3><br />
-		<p>Soyez assuré(e) que Banque Nationale Assurances porte une attention toute particulière à la confidentialité et prend toutes les mesures nécessaires afin d'assurer la protection de vos renseignements.</p>
-		<p>Si vous avez des questions ou des commentaires, n’hésitez pas à communiquer avec nous.</p>
-		<h3><span>514 871-7500</span><br /><span>1 877 871-7500</span><br /><span><a href="mailto:assurances@bnc.ca" class="mail">assurances@bnc.ca</a></span></h3>
-		<a href="#header_top" class="haut">Haut</a>
+		<h2>Any questions?</h2>
+		<p>If you have any questions or comments regarding the handling of your personal information, you may contact the Personal Information Access Officer at the following address:</p>
+		<h3>National Bank Life Insurance Company<br />1100 University, 5th Floor<br />Montreal, Quebec<br />H3B 2G7</h3><br />
+		<p>If you wish, you may also contact the Privacy Commissioner of Canada at the following address:</p>
+		<h3>Privacy Commissioner<br />112 Kent St.<br />Place de Ville, Tower B, 3rd Floor<br />Ottawa, Ontario<br />K1A 1H3</h3>
+		<h3>Telephone: <span>613-947-1698</span><br />Toll-free: <span>1-800-282-1376</span></h3><br />
+		<p>You may rest assured that National Bank Insurance takes privacy very seriously and that all the necessary safeguards are in place to protect your personal information.</p>
+		<p>Should you have any questions or comments, do not hesitate to contact us.</p>
+		<h3><span>514 871-7500</span><br /><span>1 877 871-7500</span><br /><span><a href="mailto:insurance@nbc.ca" class="mail">insurance@nbc.ca</a></span></h3>
+		<a href="#header_top" class="haut">Top</a>
 	</section>
 <!--CENTER CONTENT ENDS-->
 

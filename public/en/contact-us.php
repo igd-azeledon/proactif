@@ -27,7 +27,7 @@
 <body>
 
 <!--TOP STARTS-->
-<?php include_once("../includes/_include_top.php"); ?>
+<?php include_once("../includes/_include_top_en.php"); ?>
 <!--TOP ENDS-->
 
 <section class="banner pic6"><div><h2 class="different">Contact us<span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis erat at dolor commodo eleifend. Vestibulum cursus</span></h2></div></section>
@@ -163,11 +163,11 @@
 <!--PAGE CONTENT ENDS-->
 
 <!--FOOTER STARTS-->
-<?php include_once("../includes/_include_bottom.php"); ?>
+<?php include_once("../includes/_include_bottom_en.php"); ?>
 <!--FOOTER ENDS-->
 
 <!--FOOTER STARTS-->
-<?php include_once("../includes/_include_footer.php"); ?>
+<?php include_once("../includes/_include_footer_en.php"); ?>
 <!--FOOTER ENDS-->
 
 <!--SCRIPS START-->

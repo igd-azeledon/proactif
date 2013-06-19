@@ -1,6 +1,6 @@
 <header id="header_top">
 	<div>
-		<a href="#" title="Banque Nationale" id="Banque"><img src="images/defaults/logo_banque.gif" alt="Banque Nationale" /></a>
+		<a href="#" title="Banque Nationale" id="Banque"><img src="../images/defaults/logo_banque.gif" alt="Banque Nationale" /></a>
 		<div>
 <!--			<nav id="SocialMedia">
 				<ul>
@@ -17,7 +17,7 @@
 					<li><a href="/en" title="Fran&ccedil;ais">Fran&ccedil;ais</a></li>
 				</ul>
 			</nav>
-			<a href="index.php" title="PROACTIF -Personal injury insurance-" id="Proactif"><img src="images/defaults/logo_proactif_little.gif" alt="PROACTIF -Personal injury insurance-" /></a>
+			<a href="index.php" title="PROACTIF -Personal injury insurance-" id="Proactif"><img src="../images/defaults/logo_proactif_little.gif" alt="PROACTIF -Personal injury insurance-" /></a>
 		</div>
 	</div>
 	<nav>
