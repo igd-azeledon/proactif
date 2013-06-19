@@ -1,5 +1,5 @@
 <!doctype html>
-<html class="no-js" lang="fr">
+<html class="no-js" lang="en">
 <head>
 
 <meta charset="utf-8">
@@ -21,7 +21,7 @@
 <body>
 
 <!--TOP STARTS-->
-<?php include_once("../includes/_include_top.php"); ?>
+<?php include_once("../includes/_include_top_en.php"); ?>
 <!--TOP ENDS-->
 
 <!--PAGE CONTENT STARTS-->
@@ -95,7 +95,7 @@
 <!--CENTER CONTENT ENDS-->
 
 <!--ASIDE STARTS-->
-	<?php include_once("../includes/_include_aside.php"); ?>
+	<?php include_once("../includes/_include_aside_en.php"); ?>
 <!--ASIDE ENDS-->
 
   <div class="clearfix"></div>
@@ -103,11 +103,11 @@
 <!--PAGE CONTENT ENDS-->
 
 <!--FOOTER STARTS-->
-<?php include_once("../includes/_include_bottom.php"); ?>
+<?php include_once("../includes/_include_bottom_en.php"); ?>
 <!--FOOTER ENDS-->
 
 <!--FOOTER STARTS-->
-<?php include_once("../includes/_include_footer.php"); ?>
+<?php include_once("../includes/_include_footer_en.php"); ?>
 <!--FOOTER ENDS-->
 
 <!--SCRIPS START-->

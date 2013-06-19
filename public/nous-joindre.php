@@ -108,7 +108,7 @@
                         <li class="no_padding clearfix">    
                             <p>Cochez les journées qui conviennent à vos disponibilités :</p>
 							<ul>
-                            	<li><input type="checkbox" name="availability_days[]" id="availability_moday" value="Lundi" <?php echo (isset($_SESSION['contact_form']['availability_days']) && in_array('Lundi',$_SESSION['contact_form']['availability_days']))?'checked="checked"':''?>/><label for="availability_monday">Lundi</label></li>
+                            	<li><input type="checkbox" name="availability_days[]" id="availability_monday" value="Lundi" <?php echo (isset($_SESSION['contact_form']['availability_days']) && in_array('Lundi',$_SESSION['contact_form']['availability_days']))?'checked="checked"':''?>/><label for="availability_monday">Lundi</label></li>
                             	<li><input type="checkbox" name="availability_days[]" id="availability_tuesday" value="Mardi" <?php echo (isset($_SESSION['contact_form']['availability_days']) && in_array('Mardi',$_SESSION['contact_form']['availability_days']))?'checked="checked"':''?>/><label for="availability_tuesday">Mardi</label></li>
                             	<li><input type="checkbox" name="availability_days[]" id="availability_wednesday" value="Mercredi" <?php echo (isset($_SESSION['contact_form']['availability_days']) && in_array('Mercredi',$_SESSION['contact_form']['availability_days']))?'checked="checked"':''?>/><label for="availability_wednesday">Mercredi</label></li>
                             	<li><input type="checkbox" name="availability_days[]" id="availability_thursday" value="Jeudi" <?php echo (isset($_SESSION['contact_form']['availability_days']) && in_array('Jeudi',$_SESSION['contact_form']['availability_days']))?'checked="checked"':''?>/><label for="availability_thursday">Jeudi</label></li>
@@ -120,9 +120,9 @@
                         <fieldset class="step3">
                             <legend>3. Autres informations</legend>
                             <ul>
-                            	<li>
-                            <label for="type" class="demande">Veuillez préciser l'objet de votre demande</p>
-                            <select name="type" value='type'>
+							<li>
+                            <label for="type" class="demande">Veuillez préciser l'objet de votre demande</label>
+                            <select name="type" value="type">
                                 <option value='Information' <?php 
                                 if(isset($_SESSION['contact_form']['type']) && $_SESSION['contact_form']['type']=='Information')
                                 {
@@ -136,7 +136,7 @@
                                 }
                                 ?>>Réclamation</option>
                             </select>
-                            </li>
+							</li>
                             <li class="comment">
                             <label for='comments'>Commentaires</label>
                             <textarea name='comments' id='comments'><?php echo (isset($_SESSION['contact_form']['comments']))?$_SESSION['contact_form']['comments']:''?></textarea>

@@ -4,7 +4,7 @@
     $_SESSION['seed'] = sha1(uniqid(mt_rand(), true));
 ?>
 <!doctype html>
-<html class="no-js" lang="fr">
+<html class="no-js" lang="en">
 <head>
 
 <meta charset="utf-8">
@@ -108,7 +108,7 @@
 						<li class="no_padding clearfix">
 							<p>Tick the days on which you are available:</p>
 							<ul>
-								<li><input type="checkbox" name="availability_days[]" id="availability_moday" value="Monday" <?php echo (isset($_SESSION['contact_form']['availability_days']) && in_array('Monday',$_SESSION['contact_form']['availability_days']))?'checked="checked"':''?>/><label for="availability_monday">Monday</label></li>
+								<li><input type="checkbox" name="availability_days[]" id="availability_monday" value="Monday" <?php echo (isset($_SESSION['contact_form']['availability_days']) && in_array('Monday',$_SESSION['contact_form']['availability_days']))?'checked="checked"':''?>/><label for="availability_monday">Monday</label></li>
 								<li><input type="checkbox" name="availability_days[]" id="availability_tuesday" value="Tuesday" <?php echo (isset($_SESSION['contact_form']['availability_days']) && in_array('Tuesday',$_SESSION['contact_form']['availability_days']))?'checked="checked"':''?>/><label for="availability_tuesday">Tuesday</label></li>
 								<li><input type="checkbox" name="availability_days[]" id="availability_wednesday" value="Wednesday" <?php echo (isset($_SESSION['contact_form']['availability_days']) && in_array('Wednesday',$_SESSION['contact_form']['availability_days']))?'checked="checked"':''?>/><label for="availability_wednesday">Wednesday</label></li>
 								<li><input type="checkbox" name="availability_days[]" id="availability_thursday" value="Thursday" <?php echo (isset($_SESSION['contact_form']['availability_days']) && in_array('Thursday',$_SESSION['contact_form']['availability_days']))?'checked="checked"':''?>/><label for="availability_thursday">Thursday</label></li>
