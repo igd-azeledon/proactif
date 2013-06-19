@@ -122,7 +122,7 @@ if($_POST)
         //if the user desires to be contacted
         if(isset($_POST['allow_contact']))
             $message .= '<br/>'.$lang[$current_lang]['allow_contact_field_name'];
-        
+        //echo $message; die();
         //send email
         $headers  = 'MIME-Version: 1.0' . "\r\n";
         $headers .= 'Content-type: text/html; charset=iso-8859-1' . "\r\n";
@@ -139,7 +139,7 @@ if($_POST)
             $_SESSION['mail_notification'] = $lang[$current_lang]['mail_failed'].$error_text;
         
         if($_POST['lang']=='en')
-            header('Location: /en/contact-us.php');
+            header('Location: en/contact-us.php');
         else
             header('Location: nous-joindre.php');
     }
