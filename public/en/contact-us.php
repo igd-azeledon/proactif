@@ -42,12 +42,21 @@
 			<li>Contact us</li>
 		</ul>
 
-
-<div class="error_msg"><p>Une erreur s'est produite lors du contact avec Proactif<br>S'il vous plaît entrer une adresse email valide<br>Prénom est requis<br>Nom est requis<br>Téléphone est requis<br>Meilleur moment pour vous joindre est requis<br>Journées qui conviennent à vos disponibilités est requis</p></div>
-
-<div class="success_msg"><p>L'utilisateur a soumis les informations suivantes</p></div>
-
-
+                <?php
+                if(isset($_SESSION['mail_status']))
+                {
+                    if($_SESSION['mail_status']):
+                        ?>
+                        <div class="success_msg"><p><?php echo $_SESSION['mail_notification']?></p></div>
+                        <?php
+                    else:
+                        ?>
+                        <div class="error_msg"><p><?php echo $_SESSION['mail_notification']?></p></div>
+                        <?php
+                    endif;
+                    unset($_SESSION['mail_status'],$_SESSION['mail_notification']);
+                }
+                ?>
 		<h2>Any questions?<br />We'll be glad to answer them!</h2>
 		<h1>You want to contact us?</h1>
 		<article id="ContactInfo">
@@ -65,26 +74,26 @@
 			<h2>Prefer us to call you?*</h2>
 			<p>Tell us when and at what number<br /><em>* Please allow two business days</em></p>
 	  <form name='contact' method='post' action='../send_email.php'>
-				<input type="hidden" name="lang" value="fr"/>
+				<input type="hidden" name="lang" value="en"/>
 				<input type="hidden" name="seed" value="<?php echo $_SESSION['seed']?>"/>
 				<fieldset class="step1">
 					<legend>1. Personal information</legend>
 					<ul>
 						<li>
 							<label for="first_name">First name: <span>*</span></label>
-							<input type="text" name="first_name" id="first_name"/>
+							<input type="text" name="first_name" id="first_name" value="<?php echo (isset($_SESSION['contact_form']['first_name']))?$_SESSION['contact_form']['first_name']:''?>"/>
 						</li>
 						<li>
 							<label for="last_name">Last name: <span>*</span></label>
-							<input type="text" name="last_name" id="last_name"/>
+							<input type="text" name="last_name" id="last_name" value="<?php echo (isset($_SESSION['contact_form']['last_name']))?$_SESSION['contact_form']['last_name']:''?>"/>
 						</li>
 						<li>
 							<label for="email">Email: <span>*</span></label>
-							<input type="text" name="email" id="email"/>
+							<input type="text" name="email" id="email" value="<?php echo (isset($_SESSION['contact_form']['email']))?$_SESSION['contact_form']['email']:''?>"/>
 						</li>
 						<li>
 							<label for="phone">Telephone: <span>*</span></label>
-							<input type="text" name="phone" id="phone"/>
+							<input type="text" name="phone" id="phone" value="<?php echo (isset($_SESSION['contact_form']['phone']))?$_SESSION['contact_form']['phone']:''?>"/>
 						</li>
 					</ul>
 				</fieldset>
@@ -93,17 +102,17 @@
 					<ul>
 						<li>
 							<p>Tick the times when you are available:</p>
-							<input type="checkbox" name="availability_morning" id="availability_morning" value="0"/><label for="availability_morning">Morning</label>
-							<input type="checkbox" name="availability_evening" id="availability_evening" value="1"/><label for="availability_evening">Afternoon</label>
+							<input type="checkbox" name="availability_time[]" id="availability_morning" value="Morning" <?php echo (isset($_SESSION['contact_form']['availability_time']) && in_array('Morning',$_SESSION['contact_form']['availability_time']))?'checked="checked"':''?>/><label for="availability_morning">Morning</label>
+							<input type="checkbox" name="availability_time[]" id="availability_evening" value="Afternoon" <?php echo (isset($_SESSION['contact_form']['availability_time']) && in_array('Afternoon',$_SESSION['contact_form']['availability_time']))?'checked="checked"':''?>/><label for="availability_evening">Afternoon</label>
 						</li>
 						<li class="no_padding clearfix">
 							<p>Tick the days on which you are available:</p>
 							<ul>
-								<li><input type="checkbox" name="availability_monday" id="availability_moday" value="1"/><label for="availability_monday">Monday</label></li>
-								<li><input type="checkbox" name="availability_tuesday" id="availability_tuesday" value="1"/><label for="availability_tuesday">Tuesday</label></li>
-								<li><input type="checkbox" name="availability_wednesday" id="availability_wednesday" value="1"/><label for="availability_wednesday">Wednesday</label></li>
-								<li><input type="checkbox" name="availability_thursday" id="availability_thursday" value="1"/><label for="availability_thursday">Thursday</label></li>
-								<li><input type="checkbox" name="availability_friday" id="availability_friday" value="1"/><label for="availability_friday">Friday</label></li>
+								<li><input type="checkbox" name="availability_days[]" id="availability_moday" value="Monday" <?php echo (isset($_SESSION['contact_form']['availability_days']) && in_array('Monday',$_SESSION['contact_form']['availability_days']))?'checked="checked"':''?>/><label for="availability_monday">Monday</label></li>
+								<li><input type="checkbox" name="availability_days[]" id="availability_tuesday" value="Tuesday" <?php echo (isset($_SESSION['contact_form']['availability_days']) && in_array('Tuesday',$_SESSION['contact_form']['availability_days']))?'checked="checked"':''?>/><label for="availability_tuesday">Tuesday</label></li>
+								<li><input type="checkbox" name="availability_days[]" id="availability_wednesday" value="Wednesday" <?php echo (isset($_SESSION['contact_form']['availability_days']) && in_array('Wednesday',$_SESSION['contact_form']['availability_days']))?'checked="checked"':''?>/><label for="availability_wednesday">Wednesday</label></li>
+								<li><input type="checkbox" name="availability_days[]" id="availability_thursday" value="Thursday" <?php echo (isset($_SESSION['contact_form']['availability_days']) && in_array('Thursday',$_SESSION['contact_form']['availability_days']))?'checked="checked"':''?>/><label for="availability_thursday">Thursday</label></li>
+								<li><input type="checkbox" name="availability_days[]" id="availability_friday" value="Friday" <?php echo (isset($_SESSION['contact_form']['availability_days']) && in_array('Friday',$_SESSION['contact_form']['availability_days']))?'checked="checked"':''?>/><label for="availability_friday">Friday</label></li>
 							</ul>
 						</li>
 					</ul>
@@ -114,16 +123,26 @@
 						<li>
 							<label for="type" class="demande">Please specify the nature of your request</label>
 							<select name="type" value='type'>
-								<option value='0'>Information</option>
-								<option value='1'>Claim</option>
+								<option value='Information' <?php 
+                                                                if(isset($_SESSION['contact_form']['type']) && $_SESSION['contact_form']['type']=='Information')
+                                                                {
+                                                                    echo 'selected';
+                                                                }
+                                                                ?>>Information</option>
+                                                                <option value='Réclamation' <?php 
+                                                                if(isset($_SESSION['contact_form']['type']) && $_SESSION['contact_form']['type']=='Claim')
+                                                                {
+                                                                    echo 'selected';
+                                                                }
+                                                                ?>>Claim</option>
 							</select>
 						</li>
 						<li class="comment">
 							<label for='comments'>Comments</label>
-							<textarea name='comments' id='comments'></textarea>
+							<textarea name='comments' id='comments'><?php echo (isset($_SESSION['contact_form']['comments']))?$_SESSION['contact_form']['comments']:''?></textarea>
 						</li>
 						<li class="allow">
-							<input type="checkbox" name="allow_contact" id="allow_contact" value="1"/><label for="allow_contact">I accept to be contacted by telephone or by email regarding products and services offered by National Bank Insurance.</label>
+							<input type="checkbox" name="allow_contact" id="allow_contact" value="1" <?php echo (isset($_SESSION['contact_form']['allow_contact']))?'checked="checked"':''?>/><label for="allow_contact">I accept to be contacted by telephone or by email regarding products and services offered by National Bank Insurance.</label>
 						</li>
 					</ul>
 				</fieldset>
