@@ -24,7 +24,7 @@
 <?php include_once("../includes/_include_top_en.php"); ?>
 <!--TOP ENDS-->
 
-<section class="banner pic3"><div><h2 class="different">Tree levels of coverage</h2></div></section>
+<section class="banner pic3"><div><h2 class="different">Three levels of coverage</h2></div></section>
 
 <!--PAGE CONTENT STARTS-->
 <section id="PageContent">
@@ -32,8 +32,8 @@
 <!--CENTER CONTENT STARTS-->
 	<section id="CenterContent">
 		<ul class="links">
-			<li><a href="index.php" title="Home">Home</a>></li>
-			<li><a href="about.php" title="Proactif Insurance">Proactif Insurance</a>></li>
+			<li><a href="../en/index.php" title="Home">Home</a>></li>
+			<li><a href="../en/about.php" title="Proactif Insurance">Proactif Insurance</a>></li>
 			<li>Bonus - Benefits</li>
 		</ul>
 		<article>
@@ -41,216 +41,208 @@
             <p class="no_padding"><em>*The insurance policy contains the definition of terms, full details on benefits as well as any exclusions and restrictions that may apply.</em></p>
 		</article>
 		<hr />
-		<h1>TABLEAU DES PRESTATIONS</h1>
-		<table>
-			<thead>
-				<tr>
-					<th colspan="4">GARANTIE EN CAS DE BLESSURE</th>
-				</tr>
-				<tr>
-					<td>BLESSURE</td>
-					<td>Niveau 1</td>
-					<td>Niveau 2</td>
-					<td>Niveau 3</td>
-				</tr>
-			</thead>
-			<tbody>
-				<!-- Title -->
-				<tr>
-					<th colspan="4">PARALYSIE</th>
-				</tr>
-				<tr class="last">
-					<td>Perte de l’usage de 2 membres ou plus</td>
-					<td>50 000 $</td>
-					<td>100 000 $</td>
-					<td>150 000 $</td>
-				</tr>
-				<!-- Title -->
-				<tr>
-					<th colspan="4">TOUTE FRACTURE AUX ENDROITS SUIVANTS</th>
-				</tr>
-				<tr>
-					<td>Cou</td>
-					<td>5 000 $</td>
-					<td>10 000 $</td>
-					<td>15 000 $</td>
-				</tr>
-				<tr class="gray">
-					<td>Hanche, bassin</td>
-					<td>4 000 $</td>
-					<td>8 000 $</td>
-					<td>12 000 $</td>
-				</tr>
-				<tr>
-					<td>Crâne</td>
-					<td>2 500 $</td>
-					<td>5 000 $</td>
-					<td>7 500 $</td>
-				</tr>
-				<tr class="gray">
-					<td>Cuisse, talon, bras supérieur</td>
-					<td>2 000 $</td>
-					<td>4 000 $</td>
-					<td>6 000 $</td>
-				</tr>
-				<tr>
-					<td>Cheville, jambe, coude, omoplate</td>
-					<td>1 750 $</td>
-					<td>3 500 $</td>
-					<td>5 250 $</td>
-				</tr>
-				<tr class="gray">
-					<td>Mâchoire inférieure, clavicule</td>
-					<td>1 500 $</td>
-					<td>3 000 $</td>
-					<td>4 500 $</td>
-				</tr>
-				<tr>
-					<td>Avant-bras, poignet</td>
-					<td>1 250 $</td>
-					<td>2 500 $</td>
-					<td>3 750 $</td>
-				</tr>
-				<tr class="gray">
-					<td>Vertèbres (chacune)</td>
-					<td>1 000 $</td>
-					<td>2 000 $</td>
-					<td>3 000 $</td>
-				</tr>
-				<tr>
-					<td>Sternum, rotule, pommette</td>
-					<td>750 $</td>
-					<td>1 500 $</td>
-					<td>2 250 $</td>
-				</tr>
-				<tr class="gray">
-					<td>Main (excluant les doigts, les pouces et les poignets), Pied (excluant les orteils et le talon), coccyx</td>
-					<td>500 $</td>
-					<td>1 000 $</td>
-					<td>1 500 $</td>
-				</tr>
-				<tr>
-					<td>Nez</td>
-					<td>200 $</td>
-					<td>400 $</td>
-					<td>600 $</td>
-				</tr>
-				<tr  class="gray">
-					<td>Côte (chacune)</td>
-					<td>150 $</td>
-					<td>300 $</td>
-					<td>450 $</td>
-				</tr>
-				<tr class="last">
-					<td>Orteils, pouces, doigts (chacun)</td>
-					<td>50 $</td>
-					<td>100 $</td>
-					<td>150 $</td>
-				</tr>
-				<!-- Title -->
-				<tr>
-					<th colspan="4">DISLOCATION <span>(Nécessitant une intervention chirurgicale sous anesthésie. Une seule prestation sera versée pour chaque dislocation au cours de toute période de 12 mois)</span></th>
-				</tr>
-				<tr>
-					<td>Hanche, genou, poignet, coude, cheville, omoplate, clavicule, mâchoire</td>
-					<td>1 000 $</td>
-					<td>2 000 $</td>
-					<td>3 000 $</td>
-				</tr>
-				<tr class="gray">
-					<td>Pouce</td>
-					<td>100 $</td>
-					<td>200 $</td>
-					<td>300 $</td>
-				</tr>
-				<tr class="last">
-					<td>Orteils, doigts (chacun, excluant le pouce)</td>
-					<td>50 $</td>
-					<td>100 $</td>
-					<td>150 $</td>
-				</tr>
-				<!-- Title -->
-				<tr>
-					<th colspan="4">Brûlures (Au deuxième ou au troisième degré)</th>
-				</tr>
-				<tr>
-					<td>Plus de 27 % de la surface totale du corps</td>
-					<td>3 000 $</td>
-					<td>6 000 $</td>
-					<td>9 000 $</td>
-				</tr>
-				<tr class="gray">
-					<td>Plus de 18 % jusqu’à 27 % de la surface totale du corps</td>
-					<td>2 000 $</td>
-					<td>4 000 $</td>
-					<td>6 000 $</td>
-				</tr>
-				<tr>
-					<td>Plus de 9 % jusqu’à 18  % de la surface totale du corps</td>
-					<td>1 500 $</td>
-					<td>3 000 $</td>
-					<td>4 500 $</td>
-				</tr>
-				<tr class="gray last">
-					<td>De 5 % à 9 % de la surface du corps</td>
-					<td>750 $</td>
-					<td>1 500 $</td>
-					<td>2 250 $</td>
-				</tr>
-				<!-- Title -->
-				<tr>
-					<th colspan="4">DÉCÈS ACCIDENTEL</th>
-				</tr>
-				<tr >
-					<td>&nbsp;</td>
-					<td>6 250 $</td>
-					<td>12 500 $</td>
-					<td>18 750 $</td>
-				</tr>
-				<tr>
-					<td colspan="4" class="center">La Taxe applicable 0.9 % est incluse dans le montant des primes</td>
-				</tr>
-			</tbody>
-		</table>
+		<h1>BENEFITS TABLE*</h1>
 		<table class="garantie">
 			<thead>
 				<tr>
-					<th>GARANTIE DE CONVALESCENCE</th>
+					<th colspan="4">INJURY BENEFIT</th>
+				</tr>
+				<tr>
+					<td>INJURY</td>
+					<td>Level 1</td>
+					<td>Level 2</td>
+					<td>Level 3</td>
 				</tr>
 			</thead>
 			<tbody>
+				<!-- Title -->
 				<tr>
-					<td>Pour chaque blessure, vous obtenez une prestation supplémentaire - La garantie de convalescence équivalent à 25 % de la garantie en cas de blessure.</td>
+					<th colspan="4">PARALYSIS</th>
+				</tr>
+				<tr class="last">
+					<td>Loss of use of 2 or more limbs</td>
+					<td>$ 50 000</td>
+					<td>$ 100 000</td>
+					<td>$ 150 000</td>
+				</tr>
+				<!-- Title -->
+				<tr>
+					<th colspan="4">ALL FRACTURES TO</th>
+				</tr>
+				<tr>
+					<td>Neck (cervical vertebrae)</td>
+					<td>$ 5 000</td>
+					<td>$ 10 000</td>
+					<td>$ 15 000</td>
 				</tr>
 				<tr class="gray">
-					<td>Par exemple, avec la protection de niveau 2, pour une fracture de la hanche, vous recevez 8  000 $ et 2  000 $, soit 10  000 $  !</td>
+					<td>Hip, pelvis</td>
+					<td>$ 4 000</td>
+					<td>$ 8 000</td>
+					<td>$ 12 000</td>
+				</tr>
+				<tr>
+					<td>Skull</td>
+					<td>$ 2 500</td>
+					<td>$ 5 000</td>
+					<td>$ 7 500</td>
+				</tr>
+				<tr class="gray">
+					<td>Thigh, heel, upper arm</td>
+					<td>$ 2 000</td>
+					<td>$ 4 000</td>
+					<td>$ 6 000</td>
+				</tr>
+				<tr>
+					<td>Ankle, leg, elbow, shoulder blade</td>
+					<td>$ 1 750</td>
+					<td>$ 3 500</td>
+					<td>$ 5 250</td>
+				</tr>
+				<tr class="gray">
+					<td>Lower jaw, collarbone</td>
+					<td>$ 1 500</td>
+					<td>$ 3 000</td>
+					<td>$ 4 500</td>
+				</tr>
+				<tr>
+					<td>Lower arm, wrist</td>
+					<td>$ 1 250</td>
+					<td>$ 2 500</td>
+					<td>$ 3 750</td>
+				</tr>
+				<tr class="gray">
+					<td>Vertebrae (each, excluding cervical vertebrae)</td>
+					<td>$ 1 000</td>
+					<td>$ 2 000</td>
+					<td>$ 3 000</td>
+				</tr>
+				<tr>
+					<td>Sternum, kneecap, cheekbone</td>
+					<td>$ 750</td>
+					<td>$ 1 500</td>
+					<td>$ 2 250</td>
+				</tr>
+				<tr class="gray">
+					<td>Hand (excluding fingers, thumbs and wrists), foot (excluding toes and heel), coccyx</td>
+					<td>$ 500</td>
+					<td>$ 1 000</td>
+					<td>$ 1 500</td>
+				</tr>
+				<tr>
+					<td>Nose</td>
+					<td>$ 200</td>
+					<td>$ 400</td>
+					<td>$ 600</td>
+				</tr>
+				<tr  class="gray">
+					<td>Rib (each)</td>
+					<td>$ 150</td>
+					<td>$ 300</td>
+					<td>$ 450</td>
+				</tr>
+				<tr class="last">
+					<td>Toes, thumbs, fingers (each)</td>
+					<td>$ 50</td>
+					<td>$ 100</td>
+					<td>$ 150</td>
+				</tr>
+				<!-- Title -->
+				<tr>
+					<th colspan="4">DISLOCATION</th>
+				</tr>
+				<tr>
+					<td>Hip, knee, wrist, elbow, ankle, shoulder blade, collarbone, jaw</td>
+					<td>$ 1 000</td>
+					<td>$ 2 000</td>
+					<td>$ 3 000</td>
+				</tr>
+				<tr class="gray">
+					<td>Thumb</td>
+					<td>$ 100</td>
+					<td>$ 200</td>
+					<td>$ 300</td>
+				</tr>
+				<tr class="last">
+					<td>Toes, fingers (each, excluding thumb)</td>
+					<td>$ 50</td>
+					<td>$ 100</td>
+					<td>$ 150</td>
+				</tr>
+				<!-- Title -->
+				<tr>
+					<th colspan="4">Burns (second or third degree)</th>
+				</tr>
+				<tr>
+					<td>Over 27% of total body surface</td>
+					<td>$ 3 000</td>
+					<td>$ 6 000</td>
+					<td>$ 9 000</td>
+				</tr>
+				<tr class="gray">
+					<td>Over 18% and up to 27% of total body surface</td>
+					<td>$ 2 000</td>
+					<td>$ 4 000</td>
+					<td>$ 6 000</td>
+				</tr>
+				<tr>
+					<td>Over 9% and up to 18% of total body surface</td>
+					<td>$ 1 500</td>
+					<td>$ 3 000</td>
+					<td>$ 4 500</td>
+				</tr>
+				<tr class="gray last">
+					<td>From 5% to 9% of total body surface</td>
+					<td>$ 750</td>
+					<td>$ 1 500</td>
+					<td>$ 2 250</td>
+				</tr>
+				<!-- Title -->
+				<tr>
+					<th colspan="4">ACCIDENTAL DEATH</th>
+				</tr>
+				<tr >
+					<td>&nbsp;</td>
+					<td>$ 6 250</td>
+					<td>$ 12 500</td>
+					<td>$ 18 750</td>
+				</tr>
+			</tbody>
+		</table>
+		<table width="100%" class="garantie">
+			<thead>
+				<tr>
+					<th colspan="4">PREMIUM TABLE</th>
+				</tr>
+				<tr>
+					<td>&nbsp;</td>
+					<td>Level 1</td>
+					<td>Level 2</td>
+					<td>Level 3</td>
+				</tr>
+			</thead>
+			<tbody>
+				<tr class="gray">
+					<td>Monthly premiums </td>
+					<td>$ 9,95</td>
+					<td>$ 17,95</td>
+					<td>$ 24,95</td>
 				</tr>
 			</tbody>
 		</table>
 		<table class="no_padding">
 			<thead>
 				<tr>
-					<th colspan="4">TABLEAU DES PRIMES</th>
-				</tr>
-				<tr>
-					<td>&nbsp;</td>
-					<td>Niveau 1</td>
-					<td>Niveau 2</td>
-					<td>Niveau 3</td>
+					<th>RECOVERY BENEFIT</th>
 				</tr>
 			</thead>
 			<tbody>
-				<tr class="gray">
-					<td>PRIMES MENSUELLES</td>
-					<td>8,95 $</td>
-					<td>16,95 $</td>
-					<td>23,95 $</td>
-				</tr>
 				<tr>
-					<td colspan="4" class="text">Il n’y a aucune limite au nombre de réclamations que vous pouvez faire pour des accidents admissibles distincts, tant que la police demeure en vigueur. La police prend fin lors du règlement de la Garantie en cas de paralysie.<br />Pour un même accident, la prestation maximale qui sera versée pour toute combinaison de fractures, dislocations, brûlures et décès accidentel sera de 6 250 $, 12 500 $ et 18 750 $ pour les niveaux 1, 2 et 3 respectivement. Ces sommes incluent la Garantie en cas de blessure ainsi que la Garantie de convalescence. Dans le cas où, pour le même accident, la Garantie en cas de paralysie s’appliquerait, celle-ci de même que la Garantie de convalescence associée seraient versées en sus.<br />Lorsque vous atteignez l’âge de 81 ans, la Garantie en cas de blessure et la prestation maximale sont réduits de 50 %. La Garantie de convalescence continue de correspondre à 25 % de votre couverture réduite.<br />La Garantie de convalescence n’est pas payable en cas de décès accidentel.</td>
+					<td class="text">For every injury, you receive an additional benefit equal to <strong>25% of the Injury benefit</strong>. For example, an individual insured at level 2 receives $10,000 when he fractures his hip. <strong>$8,000 + 25% of $8,000 = $10,000</strong></td>
 				</tr>
 			</tbody>
 		</table>
+		<p><em>* The insurance policy contains the definition of terms, full details on benefits as well as any exclusions and restrictions that may apply.</em></p>
 	</section>
 <!--CENTER CONTENT ENDS-->
 

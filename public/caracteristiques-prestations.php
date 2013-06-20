@@ -55,7 +55,7 @@
 				<li>La <strong>prestation en cas de blessure</strong></li>
 				<li>La <strong>prestation de convalescence</strong>, équivalant à 25 % de la garantie en cas de blessure.</li>
 			</ul>
-			<p><a href="#">Consultez le tableau</a> des prestations pour connaître le soutien financier auquel vous pourriez avoir droit.</p>
+			<p><a href="primes-prestations.php">Consultez le tableau</a> des prestations pour connaître le soutien financier auquel vous pourriez avoir droit.</p>
 		</article>
 		<hr />
 		<article>

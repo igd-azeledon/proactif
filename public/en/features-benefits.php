@@ -32,8 +32,8 @@
 <!--CENTER CONTENT STARTS-->
 	<section id="CenterContent">
 		<ul class="links">
-			<li><a href="../index.php" title="Home">Home</a>></li>
-			<li><a href="../about.php" title="Proactif Insurance">Proactif Insurance</a>></li>
+			<li><a href="../en/index.php" title="Home">Home</a>></li>
+			<li><a href="../en/about.php" title="Proactif Insurance">Proactif Insurance</a>></li>
 			<li>Features Benefits</li>
 		</ul>
 		<h1>Made-to-measure coverage</h1>
@@ -42,9 +42,9 @@
 			<p><strong>ProActive Personal Injury Insurance</strong> can be customized to your budget and offers 3 levels of coverage.</p>
 			<p> Based on the level chosen, you benefit from financial support up to:</p>
 			<ul>
-				<li><strong>187 500 $</strong> in the event of paralysis.</li>
-				<li><strong>18 750 $</strong> per accident in the event of fracture, dislocation or burn.</li>
-				<li><strong>18 750 $</strong> in additional benefits in the event of accidental death.</li> 
+				<li><strong>$ 187 500</strong> in the event of paralysis.</li>
+				<li><strong>$ 18 750</strong> per accident in the event of fracture, dislocation or burn.</li>
+				<li><strong>$ 18 750</strong> in additional benefits in the event of accidental death.</li> 
 			</ul>
 		</article>
 		<hr />
@@ -55,7 +55,7 @@
 				<li><strong>Injury benefit</strong></li>
 				<li><strong>Recovery benefit</strong>, equal to 25% of your Injury benefit.</li>
 			</ul>
-			<p>Consult the <a href="#" title="benefits table">benefits table</a> to find out how much financial support you could receive.</p>
+			<p>Consult the <a href="bonus-benefits.php" title="benefits table">benefits table</a> to find out how much financial support you could receive.</p>
 		</article>
 		<hr />
 		<article>

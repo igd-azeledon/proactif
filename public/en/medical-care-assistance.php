@@ -32,8 +32,8 @@
 <!--CENTER CONTENT STARTS-->
 	<section id="CenterContent">
 		<ul class="links">
-			<li><a href="../index.php" title="Home">Home</a>></li>
-			<li><a href="../about.php" title="Proactif Insurance">Proactif Insurance</a>></li>
+			<li><a href="../en/index.php" title="Home">Home</a>></li>
+			<li><a href="../en/about.php" title="Proactif Insurance">Proactif Insurance</a>></li>
 			<li>Medical Care Assistance</li>
 		</ul>
 		<h1>Medical Care Assistance:</h1>

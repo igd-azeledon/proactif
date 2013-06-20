@@ -1,7 +1,7 @@
 <div id="Bottom">
 	<ul>
 		<li><a href="index.php" title="Home">Home</a></li>
-		<li><a href="#" title="Proactif Insurance" class="no_arrow">Proactif Insurance</a>
+		<li class="no_arrow">Proactif Insurance
 			<ul>
 				<li><a href="about.php" title="About">About</a></li>
 				<li><a href="features-benefits.php" title="Features Benefits">Features Benefits</a></li>

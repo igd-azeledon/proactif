@@ -32,8 +32,8 @@
 <!--CENTER CONTENT STARTS-->
 	<section id="CenterContent">
 		<ul class="links">
-			<li><a href="#" title="Accueil">Accueil</a>></li>
-			<li><a href="#" title="Assurance ProActif">Assurance ProActif</a>></li>
+			<li><a href="index.php" title="Accueil">Accueil</a>></li>
+			<li><a href="a-propos.php" title="Assurance ProActif">Assurance ProActif</a>></li>
 			<li>Primes - Prestations</li>
 		</ul>
 		<article>

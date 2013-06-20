@@ -30,7 +30,7 @@
 <?php include_once("includes/_include_top.php"); ?>
 <!--TOP ENDS-->
 
-<section class="banner pic6"><div><h2 class="different">Contactez-nous<span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis erat at dolor commodo eleifend. Vestibulum cursus</span></h2></div></section>
+<section class="banner pic6"><div><h2 class="different">Contactez-nous<span>Vous avez des questions ?<br />Nous y répondrons avec plaisir !</span></h2></div></section>
 
 <!--PAGE CONTENT STARTS-->
 <section id="PageContent">
@@ -56,7 +56,6 @@
                     unset($_SESSION['mail_status'],$_SESSION['mail_notification']);
                 }
                 ?>
-				<h2>Vous avez des questions ?<br />Nous y répondrons avec plaisir !</h2>
                 <h1>Vous désirez nous joindre ?</h1>
 		<article id="ContactInfo">
                     <div>

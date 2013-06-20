@@ -37,7 +37,7 @@
 				<img src="../images/index/banner_05.jpg" alt="Accidents happen when you least expect it" />
 			</div>
 			<div>
-				<h2 class="different">Tree levels of<br />coverage</h2>
+				<h2 class="different">Three levels of<br />coverage</h2>
 				<img src="../images/index/banner_04.jpg" alt="Tree levels of coverage" />
 			</div>
 			<div>
@@ -73,7 +73,7 @@
 					<h2>Did you know...</h2>
 					<p>Every year, approximately 4 million Canadians suffer injuries that limit their day-to-day activities.<sup>1</sup></p>
 					<em>1. Statistics Canada, Community Health Survey</em>
-					<a href="#" class="red_arrow">Learn more</a>
+					<a href="#" class="red_arrow2">Learn more</a>
 				</div>
 			</div>
 		</article>

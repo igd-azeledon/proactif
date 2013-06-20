@@ -30,7 +30,7 @@
 <?php include_once("../includes/_include_top_en.php"); ?>
 <!--TOP ENDS-->
 
-<section class="banner pic6"><div><h2 class="different">Contact us<span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis erat at dolor commodo eleifend. Vestibulum cursus</span></h2></div></section>
+<section class="banner pic6"><div><h2 class="different">Contact us<span>Any questions?<br />We'll be glad to answer them!</span></h2></div></section>
 
 <!--PAGE CONTENT STARTS-->
 <section id="PageContent">
@@ -38,7 +38,7 @@
 <!--CENTER CONTENT STARTS-->
 	<section id="CenterContent">
 		<ul class="links">
-			<li><a href="../index.php" title="Home">Home</a>></li>
+			<li><a href="../en/index.php" title="Home">Home</a>></li>
 			<li>Contact us</li>
 		</ul>
 
@@ -57,7 +57,6 @@
                     unset($_SESSION['mail_status'],$_SESSION['mail_notification']);
                 }
                 ?>
-		<h2>Any questions?<br />We'll be glad to answer them!</h2>
 		<h1>You want to contact us?</h1>
 		<article id="ContactInfo">
 			<div>

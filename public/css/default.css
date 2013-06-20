@@ -169,7 +169,7 @@ audio[controls], canvas, video {display: inline-block; *display: inline; *zoom: 
    Base
    ========================================================================== */
 html {font-size: 100%; overflow-y: scroll; -webkit-overflow-scrolling: touch; -webkit-tap-highlight-color: rgba(0,0,0,0); -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%;}
-::-moz-selection {background: #fe57a1; color: #fff; text-shadow: none;}
+::-moz-selection {background: #999; color: #fff; text-shadow: none;}
 ::selection {background: #fe57a1; color: #fff; text-shadow: none;}
 svg:not(:root) {overflow: hidden;}
 /* =============================================================================
@@ -401,10 +401,14 @@ svg:not(:root) {overflow: hidden;}
 }
 .red_arrow {
 	padding-right: 20px;
-	background: url(../images/defaults/arrow_red.png) no-repeat right 3px;
+	background: url(../images/defaults/arrow_red.png) no-repeat right 4px;
 }
-.red_arrow:hover {
-	background: url(../images/defaults/arrow_blue.png) no-repeat right 3px;
+.red_arrow2 {
+	padding-right: 5px;
+	background: url(../images/defaults/arrow_red.png) no-repeat right 4px;
+}
+.red_arrow:hover, .red_arrow2:hover {
+	background: url(../images/defaults/arrow_blue.png) no-repeat right 4px;
 	text-decoration: underline;
 }
 #CenterContent {
@@ -447,7 +451,7 @@ svg:not(:root) {overflow: hidden;}
 	float: left;
 	clear: both;
 }
-#CenterContent .col_2 div a.red_arrow {
+#CenterContent .col_2 div a.red_arrow, #CenterContent .col_2 div a.red_arrow2 {
 	min-width: 90px;
 	float: left;
 	clear: both;
@@ -549,11 +553,16 @@ svg:not(:root) {overflow: hidden;}
 	background: url(../images/defaults/arrow_white.png) no-repeat 0 5px;
 	color: #FFF;
 }
-#Bottom ul li a.no_arrow {
-	padding-left: 0;
+#Bottom ul li.no_arrow {
 	background: none;
+	font-size: 14px;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #DDD;
+	float: left;
 }
 #Bottom li ul {
+	padding-top: 10px;
 	clear: both;
 }
 #Bottom li ul li {

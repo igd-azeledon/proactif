@@ -1,6 +1,6 @@
 <header id="header_top">
 	<div>
-		<a href="#" title="Banque Nationale" id="Banque"><img src="../images/defaults/logo_banque.gif" alt="Banque Nationale" /></a>
+		<a href="https://www.bncsecurizone.ca/index_en.html" title="Banque Nationale" id="Banque" class="blankLink"><img src="../images/defaults/logo_banque.gif" alt="Banque Nationale" /></a>
 		<div>
 <!--			<nav id="SocialMedia">
 				<ul>
@@ -26,9 +26,9 @@
 			<li><a title="Proactif Insurance" class="sub"><span id="submenu">Proactif Insurance</span></a>
 				<div class="tooltip">
 					<a href="about.php" title="About">About</a>
-					<a href="features-benefits.php" title="Features Benefits" class="long">Features Benefits</a>
+					<a href="features-benefits.php" title="Features Benefits">Features Benefits</a>
 					<a href="bonus-benefits.php" title="Bonus - Benefits">Bonus - Benefits</a>
-					<a href="medical-care-assistance.php" title="Medical Care Assistance" class="medi">Medical Care Assistance</a>
+					<a href="medical-care-assistance.php" title="Medical Care Assistance">Medical Care Assistance</a>
 				</div>
 			</li>
 			<li><a href="information_package.php" title="Information Package">Information Package</a></li>

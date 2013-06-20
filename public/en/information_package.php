@@ -24,7 +24,7 @@
 <?php include_once("../includes/_include_top_en.php"); ?>
 <!--TOP ENDS-->
 
-<section class="banner pic5"><div><h2 class="different">Information package<span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis erat at dolor commodo eleifend. Vestibulum cursus</span></h2></div></section>
+<section class="banner pic5"><div><h2 class="different">Information package<span>Get your Information kit online</span></h2></div></section>
 
 <!--PAGE CONTENT STARTS-->
 <section id="PageContent">
@@ -32,13 +32,12 @@
 <!--CENTER CONTENT STARTS-->
 	<section id="CenterContent">
 		<ul class="links">
-			<li><a href="../index.php" title="Home">Home</a>></li>
+			<li><a href="../en/index.php" title="Home">Home</a>></li>
 			<li>Information package</li>
 		</ul>
-		<p><em>Get your Information kit online</em></p>
 		<h1>Your satisfaction is guaranteed!</h1>
 		<article>
-			<p>Your protection begins the minute we receive your <a href="#" title="Enrollment Form">completed Enrollment Form</a>. The first premium payment will be withdrawn from your account 10 days after your enrolment.</p>
+			<p>Your protection begins the minute we receive your <a href="contact-us.php" title="Enrollment Form">completed Enrollment Form</a>. The first premium payment will be withdrawn from your account 10 days after your enrolment.</p>
 			<p>If for any reason, you are not fully satisfied, simply return your policy to us within 30 days and you will receive a full refund of all the premiums paid, with <strong>no obligation</strong> on your part.</p>
 			<p>For more information or filling out an <a href="#" title="Enrollment Form">Enrollment Form</a>, please refer to the following documents.</p>
 			<ul id="Documents">
@@ -47,7 +46,7 @@
 				<li><a href="#" title="ProActive, Personal Injury Insurance Enrollment form"><strong>ProActive, Personal Injury Insurance Enrollment form (<img src="../images/page/icon_acrobat.gif" alt="Acrobat document" />)</strong></a></li>
 <!--				<li><a href="#" title="Formulaire de réclamation ProActif, Assurance en cas de blessure">Formulaire de réclamation <strong>ProActif, Assurance en cas de blessure (<img src="images/page/icon_acrobat.gif" alt="Acrobat document" />)</a></strong></li>-->
 			</ul>
-			<p class="joindre">Would you rather speak to us? <a href="../contact-us.php" class="more">Contact us!</a></p>
+			<p class="joindre">Would you rather speak to us? <a href="../en/contact-us.php" class="more">Contact us!</a></p>
 		</article>
 	</section>
 <!--CENTER CONTENT ENDS-->

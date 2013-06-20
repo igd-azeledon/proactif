@@ -24,7 +24,7 @@
 <?php include_once("includes/_include_top.php"); ?>
 <!--TOP ENDS-->
 
-<section class="banner pic5"><div><h2 class="different">Trousse d’information<span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis erat at dolor commodo eleifend. Vestibulum cursus</span></h2></div></section>
+<section class="banner pic5"><div><h2 class="different">Trousse d’information<span>Procurez-vous votre trousse d’information<br />en ligne</span></h2></div></section>
 
 <!--PAGE CONTENT STARTS-->
 <section id="PageContent">
@@ -35,10 +35,9 @@
 			<li><a href="index.php" title="Accueil">Accueil</a>></li>
 			<li>Trousse d’information</li>
 		</ul>
-		<p><em>Procurez-vous votre trousse d’information en ligne</em></p>
 		<h1>Votre satisfaction est garantie !</h1>
 		<article>
-			<p>Votre protection débute dès que nous recevons votre <a href="#" title="Formulaire d’adhésion">Formulaire d’adhésion</a> dûment rempli. La première prime sera prélevée de votre compte 10 jours plus tard.</p>
+			<p>Votre protection débute dès que nous recevons votre <a href="nous-joindre.php" title="Formulaire d’adhésion">Formulaire d’adhésion</a> dûment rempli. La première prime sera prélevée de votre compte 10 jours plus tard.</p>
 			<p>Si vous n’en êtes pas satisfait à 100 %, vous n’avez qu’à nous retourner la police dans les 30 jours et nous vous rembourserons intégralement toutes les primes versées, sans <strong>aucune obligation</strong> de votre part.</p>
 			<p>Pour tout complément d’information, remplir un formulaire d’adhésion ou compléter un formulaire de réclamation, consultez les documents qui suivent.</p>
 			<ul id="Documents">
