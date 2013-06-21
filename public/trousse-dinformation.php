@@ -41,9 +41,9 @@
 			<p>Si vous n’en êtes pas satisfait à 100 %, vous n’avez qu’à nous retourner la police dans les 30 jours et nous vous rembourserons intégralement toutes les primes versées, sans <strong>aucune obligation</strong> de votre part.</p>
 			<p>Pour tout complément d’information, remplir un formulaire d’adhésion ou compléter un formulaire de réclamation, consultez les documents qui suivent.</p>
 			<ul id="Documents">
-				<li><a href="#" title="Dépliant ProActif, Assurance en cas de blessure">Dépliant <strong>ProActif, Assurance en cas de blessure (<img src="images/page/icon_acrobat.gif" alt="Acrobat document" />)</strong></a></li>
-				<li><a href="#" title="Dépliant Assistance soins médicaux">Dépliant <strong>Assistance soins médicaux (<img src="images/page/icon_acrobat.gif" alt="Acrobat document" />)</strong></a></li>
-				<li><a href="#" title="Formulaire d’adhésion ProActif, Assurance en cas de blessure">Formulaire d’adhésion <strong>ProActif, Assurance en cas de blessure (<img src="images/page/icon_acrobat.gif" alt="Acrobat document" />)</strong></a></li>
+				<li><a href="pdf/assurance_en_cas_de_blessure.pdf" title="Dépliant ProActif, Assurance en cas de blessure" class="blankLink">Dépliant <strong>ProActif, Assurance en cas de blessure (<img src="images/page/icon_acrobat.gif" alt="Acrobat document" />)</strong></a></li>
+				<li><a href="pdf/assistance_soins_medicaux.pdf" title="Dépliant Assistance soins médicaux" class="blankLink">Dépliant <strong>Assistance soins médicaux (<img src="images/page/icon_acrobat.gif" alt="Acrobat document" />)</strong></a></li>
+				<li><a href="pdf/formulaire_proactif..pdf" title="Formulaire d’adhésion ProActif, Assurance en cas de blessure" class="blankLink">Formulaire d’adhésion <strong>ProActif, Assurance en cas de blessure (<img src="images/page/icon_acrobat.gif" alt="Acrobat document" />)</strong></a></li>
 <!--				<li><a href="#" title="Formulaire de réclamation ProActif, Assurance en cas de blessure">Formulaire de réclamation <strong>ProActif, Assurance en cas de blessure (<img src="images/page/icon_acrobat.gif" alt="Acrobat document" />)</a></strong></li>-->
 			</ul>
 			<p class="joindre">Vous préférez nous parler ? <a href="nous-joindre.php" class="more">Nous joindre</a></p>

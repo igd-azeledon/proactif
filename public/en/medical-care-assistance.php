@@ -50,7 +50,7 @@
 			<p>Through your <strong>ProActive, Personal Insurance Injury</strong>, some <strong>Medical Care Assistance</strong> services are accessible at all times, regardless of whether or not you are injured!.</p>
 			<p>Autonomy, comfort, security and well-being. That is what you can count on with <strong>Medical Care Assistance!</strong></p>
 			<h3>Start benefiting now!</h3><br />
-			<a href="#" class="more">Learn more</a>
+			<a href="../pdf/medical_care_assistance.pdf" class="more blankLink">Learn more</a>
 		</article>
   </section>
 <!--CENTER CONTENT ENDS-->

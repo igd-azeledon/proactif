@@ -41,9 +41,9 @@
 			<p>If for any reason, you are not fully satisfied, simply return your policy to us within 30 days and you will receive a full refund of all the premiums paid, with <strong>no obligation</strong> on your part.</p>
 			<p>For more information or filling out an <a href="#" title="Enrollment Form">Enrollment Form</a>, please refer to the following documents.</p>
 			<ul id="Documents">
-				<li><a href="#" title="ProActive, Personal Injury Insurance Brochure"><strong>ProActive, Personal Injury Insurance Brochure (<img src="../images/page/icon_acrobat.gif" alt="Acrobat document" />)</strong></a></li>
-				<li><a href="#" title="Medical Care Assistance Brochure"><strong>Medical Care Assistance Brochure (<img src="../images/page/icon_acrobat.gif" alt="Acrobat document" />)</strong></a></li>
-				<li><a href="#" title="ProActive, Personal Injury Insurance Enrollment form"><strong>ProActive, Personal Injury Insurance Enrollment form (<img src="../images/page/icon_acrobat.gif" alt="Acrobat document" />)</strong></a></li>
+				<li><a href="../pdf/personal_injury_insurance.pdf" title="ProActive, Personal Injury Insurance Brochure" class="blankLink"><strong>ProActive, Personal Injury Insurance Brochure (<img src="../images/page/icon_acrobat.gif" alt="Acrobat document" />)</strong></a></li>
+				<li><a href="../pdf/medical_care_assistance.pdf" title="Medical Care Assistance Brochure" class="blankLink"><strong>Medical Care Assistance Brochure (<img src="../images/page/icon_acrobat.gif" alt="Acrobat document" />)</strong></a></li>
+				<li><a href="../pdf/form_proactif.pdf" title="ProActive, Personal Injury Insurance Enrollment form" class="blankLink"><strong>ProActive, Personal Injury Insurance Enrollment form (<img src="../images/page/icon_acrobat.gif" alt="Acrobat document" />)</strong></a></li>
 <!--				<li><a href="#" title="Formulaire de réclamation ProActif, Assurance en cas de blessure">Formulaire de réclamation <strong>ProActif, Assurance en cas de blessure (<img src="images/page/icon_acrobat.gif" alt="Acrobat document" />)</a></strong></li>-->
 			</ul>
 			<p class="joindre">Would you rather speak to us? <a href="../en/contact-us.php" class="more">Contact us!</a></p>

@@ -49,8 +49,8 @@
 			</ul>
 			<p>Et certains services d’<strong>Assistance soins médicaux</strong> vous sont accessibles en tout temps, peu importe votre état de santé, grâce à votre police d’assurance <strong>ProActif, Assurance en cas de blessure</strong>.</p>
 			<p>Autonomie, confort, sécurité et bien être. Voilà ce que vous propose Assistance soins médicaux.</p>
-			<h3> Commencez à en bénéficier dès maintenant!</h3><br />
-			<a href="pdf/assistance_sm_fr.pdf" class="more blankLink">En savoir plus</a>
+			<h3>Commencez à en bénéficier dès maintenant!</h3><br />
+			<a href="pdf/assistance_soins_medicaux.pdf" class="more blankLink">En savoir plus</a>
 		</article>
   </section>
 <!--CENTER CONTENT ENDS-->

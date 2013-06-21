@@ -1,6 +1,6 @@
 <header id="header_top">
 	<div>
-		<a href="https://www.bncsecurizone.ca/index_en.html" title="Banque Nationale" id="Banque" class="blankLink"><img src="../images/defaults/logo_banque.gif" alt="Banque Nationale" /></a>
+		<a href="http://www.nbc-insurance.ca" title="Banque Nationale" id="Banque" class="blankLink"><img src="../images/defaults/logo_banque.gif" alt="Banque Nationale" /></a>
 		<div>
 <!--			<nav id="SocialMedia">
 				<ul>
