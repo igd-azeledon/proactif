@@ -121,7 +121,7 @@
                             <ul>
 							<li>
                             <label for="type" class="demande">Veuillez préciser l'objet de votre demande</label>
-                            <select name="type" value="type">
+                            <select name="type" id="type">
                                 <option value='Information' <?php 
                                 if(isset($_SESSION['contact_form']['type']) && $_SESSION['contact_form']['type']=='Information')
                                 {
