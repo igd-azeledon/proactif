@@ -20,7 +20,7 @@
 <script src="../js/libs/modernizr-2.0.min.js"></script>
 
 </head>
-<body>
+<body id="One">
 
 <!--TOP STARTS-->
 <?php include_once("../includes/_include_top_en.php"); ?>
@@ -66,7 +66,7 @@
 			<h1>ProActive, Personal injury insurance</h1>
 			<p>Accidents happen when you least expect it. <strong>ProActive, Personal Injury Insurance</strong> helps you overcome unforeseen expenses and focus on your recovery.</p>
 			<p><strong>ProActive, Personal Injury Insurance</strong> protects you in the event of paralysis, a fracture, a dislocation or even a burn in order to lessen the impact of an accident.</p>
-			<a href="#" class="more">Learn more</a>
+			<a href="#" class="more short">Learn more</a>
 			<div class="col_2">
 				<img src="../images/index/image_01.jpg" alt="" />
 				<div>
@@ -81,7 +81,7 @@
 		<article>
 			<h2>Medical care assistance: A health care support program</h2>
 			<p>When you sign up for <strong>ProActive, Personal Injury Insurance,</strong> you also benefit from <strong>Medical Care Assistance,</strong> a made-to-measure medical support plan!</p>
-			<a href="#" class="more">Learn more</a>
+			<a href="#" class="more short">Learn more</a>
 		</article>
 	</section>
 <!--CENTER CONTENT ENDS-->

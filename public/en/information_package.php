@@ -18,13 +18,13 @@
 <script src="../js/libs/modernizr-2.0.min.js"></script>
 
 </head>
-<body>
+<body id="Three">
 
 <!--TOP STARTS-->
 <?php include_once("../includes/_include_top_en.php"); ?>
 <!--TOP ENDS-->
 
-<section class="banner pic5"><div><h2 class="different">Information package<span>Get your Information kit online</span></h2></div></section>
+<section class="banner"><div class="pic5"><div><h2 class="different">Information package<span>Get your Information kit online</span></h2></div></div></section>
 
 <!--PAGE CONTENT STARTS-->
 <section id="PageContent">

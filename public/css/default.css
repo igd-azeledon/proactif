@@ -37,11 +37,8 @@ p {
 	font-size: 15px;
 	color: #666;
 }
-p a {
-	text-decoration: underline;
-}
 p a:hover {
-	text-decoration: none;
+	text-decoration: underline;
 }
 em {
 	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
@@ -221,7 +218,7 @@ svg:not(:root) {overflow: hidden;}
 	color: #666;
 }
 #header_top div nav ul li a:hover {
-	color: #E41C23;
+	text-decoration: underline;
 }
 #header_top div nav#SocialMedia {
 	margin: 0 0 0 12px;
@@ -292,7 +289,7 @@ svg:not(:root) {overflow: hidden;}
 	color: #FFF;
 	position: relative;
 }
-#header_top > nav ul li a:hover {
+#header_top > nav ul li a:hover, #One .one, #Two-a .two, #Three .three, #Four .four {
 	background: url(../images/defaults/bkgd_menu.jpg) repeat-x bottom;
 }
 #header_top > nav ul li > a:after {
@@ -342,6 +339,11 @@ svg:not(:root) {overflow: hidden;}
 }
 #header_top .tooltip a:hover {
 	background: url(../images/defaults/arrow_red2.png) no-repeat right 3px;
+	text-decoration: underline;
+	color: #E41C23;
+}
+#Two-a .tooltip a.two-a, #Two-b .tooltip a.two-b, #Two-c .tooltip a.two-c, #Two-d .tooltip a.two-d {
+	background: url(../images/defaults/arrow_red2.png) no-repeat right 3px;
 	color: #E41C23;
 }
 #header_top .tooltip a.long {
@@ -368,6 +370,9 @@ svg:not(:root) {overflow: hidden;}
 }
 #PageContent p {
 	padding-bottom: 20px;
+}
+#PageContent p a {
+	color: #E41C23;
 }
 #PageContent a {
 	color: #00324D;
@@ -396,6 +401,9 @@ svg:not(:root) {overflow: hidden;}
 	color: #FFF !important;
 	display: block;
 }
+.short {
+	background: url(../images/defaults/button_more2.png) no-repeat 0 0;
+}
 .more:hover {
 	background-position: 0 -31px;
 }
@@ -408,8 +416,8 @@ svg:not(:root) {overflow: hidden;}
 	background: url(../images/defaults/arrow_red.png) no-repeat right 4px;
 }
 .red_arrow:hover, .red_arrow2:hover {
-	background: url(../images/defaults/arrow_blue.png) no-repeat right 4px;
 	text-decoration: underline;
+	color: #E41C23 !important;
 }
 #CenterContent {
 	width: 573px;
@@ -495,8 +503,8 @@ svg:not(:root) {overflow: hidden;}
 	display: block;
 }
 #PageContent aside article li a:hover {
-	background: url(../images/defaults/arrow_blue.png) no-repeat right 3px;
 	text-decoration: underline;
+	color: #E41C23;
 }
 #PageContent .different_list a {
 	width: 93%;
@@ -542,7 +550,7 @@ svg:not(:root) {overflow: hidden;}
 }
 #Bottom ul li a {
 	padding: 0 0 6px 10px;
-	background: url(../images/defaults/arrow_gray_2.png) no-repeat 0 5px;
+	background: url(../images/defaults/arrow_gray_2.png) no-repeat 0 4px;
 	font-size: 14px;
 	font-weight: bold;
 	text-transform: uppercase;
@@ -608,6 +616,6 @@ footer a {
 	font-size: 11px;
 }
 footer a:hover {
-	color: #E41C23;
+	text-decoration: underline;
 }
 /* FOOTER ENDS*/

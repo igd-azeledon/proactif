@@ -1,8 +1,10 @@
 /* PAGE STARTS */
 .banner {
 	width: 100%;
+	height: 237px;
+	background-color: #C7D9E7;
 }
-.banner div {
+.banner div div {
 	width: 960px;
 	height: 237px;
 	margin: 0 auto;
@@ -32,22 +34,22 @@
 	display: block;
 }
 .pic1 {
-	background: url(../images/page/banner_01.jpg) repeat-x center top;
+	background: url(../images/page/banner_01.jpg) no-repeat center top;
 }
 .pic2 {
-	background: url(../images/page/banner_02.jpg) repeat-x center top;
+	background: url(../images/page/banner_02.jpg) no-repeat center top;
 }
 .pic3 {
-	background: url(../images/page/banner_03.jpg) repeat-x center top;
+	background: url(../images/page/banner_03.jpg) no-repeat center top;
 }
 .pic4 {
-	background: url(../images/page/banner_04.jpg) repeat-x center top;
+	background: url(../images/page/banner_04.jpg) no-repeat center top;
 }
 .pic5 {
-	background: url(../images/page/banner_05.jpg) repeat-x center top;
+	background: url(../images/page/banner_05.jpg) no-repeat center top;
 }
 .pic6 {
-	background: url(../images/page/banner_06.jpg) repeat-x center top;
+	background: url(../images/page/banner_06.jpg) no-repeat center top;
 }
 #PageContent {
 	padding-top: 60px;
@@ -182,9 +184,10 @@ tbody th span {
 }
 #PageContent p.joindre {
 	padding: 20px 0;
-	background: url(../images/page/icon_phone.gif) no-repeat 90px 20px;
+	background: url(../images/page/icon_phone.gif) no-repeat 97px 20px;
 	border: 1px solid #CCC;
 	text-align: center;
+	font-size: 13px;
 }
 .joindre a {
 	width: 95px;
@@ -201,7 +204,7 @@ tbody th span {
 	border: 1px solid #E41C23;
 }
 #ContactInfo div:first-child {
-	margin-right: 40px;
+	margin-right: 38px;
 }
 #ContactInfo div {
 	float: left;

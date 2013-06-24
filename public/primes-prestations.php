@@ -18,13 +18,13 @@
 <script src="js/libs/modernizr-2.0.min.js"></script>
 
 </head>
-<body>
+<body id="Two-c">
 
 <!--TOP STARTS-->
 <?php include_once("includes/_include_top.php"); ?>
 <!--TOP ENDS-->
 
-<section class="banner pic3"><div><h2 class="different">Trois niveaux de protection : Un coup de main pour vous remettre sur pied</h2></div></section>
+<section class="banner"><div class="pic3"><div><h2 class="different">Trois niveaux de protection : Un coup de main pour vous remettre sur pied</h2></div></div></section>
 
 <!--PAGE CONTENT STARTS-->
 <section id="PageContent">

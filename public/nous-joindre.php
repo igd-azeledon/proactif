@@ -24,13 +24,13 @@
 <script src="js/libs/modernizr-2.0.min.js"></script>
 
 </head>
-<body>
+<body id="Four">
 
 <!--TOP STARTS-->
 <?php include_once("includes/_include_top.php"); ?>
 <!--TOP ENDS-->
 
-<section class="banner pic6"><div><h2 class="different">Contactez-nous<span>Vous avez des questions ?<br />Nous y répondrons avec plaisir !</span></h2></div></section>
+<section class="banner"><div class="pic6"><div><h2 class="different">Contactez-nous<span>Vous avez des questions ?<br />Nous y répondrons avec plaisir !</span></h2></div></div></section>
 
 <!--PAGE CONTENT STARTS-->
 <section id="PageContent">
@@ -121,7 +121,7 @@
                             <ul>
 							<li>
                             <label for="type" class="demande">Veuillez préciser l'objet de votre demande</label>
-                            <select name="type" id="type">
+                            <select name="type" value="type">
                                 <option value='Information' <?php 
                                 if(isset($_SESSION['contact_form']['type']) && $_SESSION['contact_form']['type']=='Information')
                                 {

@@ -18,13 +18,13 @@
 <script src="js/libs/modernizr-2.0.min.js"></script>
 
 </head>
-<body>
+<body class="Two-d">
 
 <!--TOP STARTS-->
 <?php include_once("includes/_include_top.php"); ?>
 <!--TOP ENDS-->
 
-<section class="banner pic4"><div><h2 class="different">Un programme<br />d’assistance exclusif</h2></div></section>
+<section class="banner"><div class="pic4"><div><h2 class="different">Un programme<br />d’assistance exclusif</h2></div></div></section>
 
 <!--PAGE CONTENT STARTS-->
 <section id="PageContent">
@@ -49,8 +49,7 @@
 			</ul>
 			<p>Et certains services d’<strong>Assistance soins médicaux</strong> vous sont accessibles en tout temps, peu importe votre état de santé, grâce à votre police d’assurance <strong>ProActif, Assurance en cas de blessure</strong>.</p>
 			<p>Autonomie, confort, sécurité et bien être. Voilà ce que vous propose Assistance soins médicaux.</p>
-			<h3>Commencez à en bénéficier dès maintenant!</h3><br />
-			<a href="pdf/assistance_soins_medicaux.pdf" class="more blankLink">En savoir plus</a>
+			<h3>Commencez à en bénéficier dès maintenant!</h3>
 		</article>
   </section>
 <!--CENTER CONTENT ENDS-->

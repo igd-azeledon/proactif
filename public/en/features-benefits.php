@@ -18,13 +18,13 @@
 <script src="../js/libs/modernizr-2.0.min.js"></script>
 
 </head>
-<body>
+<body id="Two-b">
 
 <!--TOP STARTS-->
 <?php include_once("../includes/_include_top_en.php"); ?>
 <!--TOP ENDS-->
 
-<section class="banner pic2"><div><h2 class="different">Two benefits are better than one:<br /><strong>+ 25%</strong> of the injury benefit</h2></div></section>
+<section class="banner"><div class="pic2"><div><h2 class="different">Two benefits are better than one:<br /><strong>+ 25%</strong> of the injury benefit</h2></div></div></section>
 
 <!--PAGE CONTENT STARTS-->
 <section id="PageContent">

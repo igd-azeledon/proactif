@@ -20,7 +20,7 @@
 <script src="js/libs/modernizr-2.0.min.js"></script>
 
 </head>
-<body>
+<body id="One">
 
 <!--TOP STARTS-->
 <?php include_once("includes/_include_top.php"); ?>

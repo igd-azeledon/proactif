@@ -18,13 +18,13 @@
 <script src="../js/libs/modernizr-2.0.min.js"></script>
 
 </head>
-<body>
+<body id="Two-d">
 
 <!--TOP STARTS-->
 <?php include_once("../includes/_include_top_en.php"); ?>
 <!--TOP ENDS-->
 
-<section class="banner pic4"><div><h2 class="different">An exclusive assistance<br />plan</h2></div></section>
+<section class="banner"><div class="pic4"><div><h2 class="different">An exclusive assistance<br />plan</h2></div></div></section>
 
 <!--PAGE CONTENT STARTS-->
 <section id="PageContent">
@@ -49,8 +49,7 @@
 			</ul>
 			<p>Through your <strong>ProActive, Personal Insurance Injury</strong>, some <strong>Medical Care Assistance</strong> services are accessible at all times, regardless of whether or not you are injured!.</p>
 			<p>Autonomy, comfort, security and well-being. That is what you can count on with <strong>Medical Care Assistance!</strong></p>
-			<h3>Start benefiting now!</h3><br />
-			<a href="../pdf/medical_care_assistance.pdf" class="more blankLink">Learn more</a>
+			<h3>Start benefiting now!</h3>
 		</article>
   </section>
 <!--CENTER CONTENT ENDS-->

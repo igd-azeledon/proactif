@@ -18,13 +18,13 @@
 <script src="../js/libs/modernizr-2.0.min.js"></script>
 
 </head>
-<body>
+<body id="Two-a">
 
 <!--TOP STARTS-->
 <?php include_once("../includes/_include_top_en.php"); ?>
 <!--TOP ENDS-->
 
-<section class="banner pic1"><div><h2 class="different">Concentrate on your recovery; we’ll take care of your financial security!</h2></div></section>
+<section class="banner"><div class="pic1"><div><h2 class="different">Concentrate on your recovery; we’ll take care of your financial security!</h2></div></div></section>
 
 <!--PAGE CONTENT STARTS-->
 <section id="PageContent">
