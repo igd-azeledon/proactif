@@ -1,3 +1,4 @@
+<?php include_once('includes/navigation.php');?>
 <header id="header_top">
 	<div>
 		<a href="http://www.assurances-bnc.ca" title="Banque Nationale" id="Banque" class="blankLink"><img src="images/defaults/logo_banque.gif" alt="Banque Nationale" /></a>
@@ -14,7 +15,7 @@
 				<ul>
 					<!--<li><a href="#" title="FAQ">FAQ</a>|</li>-->
 					<li><a href="nous-joindre.php" title="Nous Joindre">Nous Joindre</a>|</li>
-					<li><a href="/en" title="English">English</a></li>
+					<li><a href="en/<?php echo $navigation->get_i18_link('fr')?>" title="English">English</a></li>
 				</ul>
 			</nav>
 			<a href="index.php" title="PROACTIF -Assurance en cas de blessure-" id="Proactif"><img src="images/defaults/logo_proactif_little.gif" alt="PROACTIF -Assurance en cas de blessure-" /></a>
