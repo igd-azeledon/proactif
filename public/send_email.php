@@ -129,7 +129,12 @@ if($_POST)
             $headers  = 'MIME-Version: 1.0' . "\r\n";
             $headers .= 'Content-type: text/html; charset=iso-8859-1' . "\r\n";
             $headers .= 'From: admin@proactif.com' . "\r\n" . 'Reply-To: admin@proactif.com' . "\r\n";
-            $mail_status = mail('admin@proactif.com', $lang[$current_lang]['mail_subject'], $message, $headers);
+            
+            $admin_email = 'assurances@bnc.ca';
+            if($current_lang=='en')
+                $admin_email = 'insurance@nbc.ca';
+            
+            $mail_status = mail($admin_email, $lang[$current_lang]['mail_subject'], $message, $headers);
             
             $_SESSION['mail_status'] = $mail_status;
             if($mail_status)
