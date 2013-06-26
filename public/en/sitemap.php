@@ -4,7 +4,7 @@
 
 <meta charset="utf-8">
 
-<title>PROACTIF - MEDICAL CARE ASSISTANCE</title>
+<title>PROACTIF - SITEMAP</title>
 <meta name="description" content="">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 
@@ -18,13 +18,13 @@
 <script src="../js/libs/modernizr-2.0.min.js"></script>
 
 </head>
-<body id="Two-d">
+<body>
 
 <!--TOP STARTS-->
 <?php include_once("../includes/_include_top_en.php"); ?>
 <!--TOP ENDS-->
 
-<section class="banner"><div class="pic4"><div><h2 class="different">An exclusive assistance<br />plan</h2></div></div></section>
+<section class="banner"><div class="pic6"><div><h2 class="different">Sitemap<span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis erat at dolor commodo eleifend. Vestibulum cursus</span></h2></div></div></section>
 
 <!--PAGE CONTENT STARTS-->
 <section id="PageContent">
@@ -33,29 +33,34 @@
 	<section id="CenterContent">
 		<ul class="links">
 			<li><a href="../en/index.php" title="Home">Home</a>></li>
-			<li><a href="../en/about.php" title="Proactif Insurance">Proactif Insurance</a>></li>
-			<li>Medical Care Assistance</li>
+			<li>Sitemap</li>
 		</ul>
-		<h1>Medical Care Assistance:</h1>
-		<h2>A unique range of services for your health and well-being!</h2>
-		<article>
-			<p>When you sign up for <strong>ProActive, Personal Injury Insurance</strong>, you also benefit from <strong>Medical Care Assistance</strong>, a comprehensive support service that includes:</p>
+		<h1>Sitemap</h1>
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris faucibus leo sapien, non dapibus</p>
+		<article id="Sitemap">
+			<h2><a href="index.php" title="Home">Home</a></h2>
+			<h2>Proactif Insurance</h2>
 			<ul>
-				<li>Home assistance to give you the help you need during your recovery</li>
-				<li>Complete assistance to coordinate your appointments and transportation</li>
-				<li>Concierge service to direct you toward the most suitable medical resources</li>
-				<li>Access to the expertise of qualified specialists for a second medical opinion</li>
-				<li>Assistance to help you find out which government healthcare deductions and tax credits you may qualify for</li>
+				<li><a href="about.php" title="About">About</a></li>
+				<li><a href="features-benefits.php" title="Features Benefits">Features Benefits</a></li>
+				<li><a href="bonus-benefits.php" title="Bonus - Benefits">Bonus - Benefits</a></li>
+				<li><a href="medical-care-assistance.php" title="Medical Care Assistance">Medical Care Assistance</a></li>
 			</ul>
-			<p>Through your <strong>ProActive, Personal Insurance Injury</strong>, some <strong>Medical Care Assistance</strong> services are accessible at all times, regardless of whether or not you are injured!.</p>
-			<p>Autonomy, comfort, security and well-being. That is what you can count on with <strong>Medical Care Assistance!</strong></p>
-			<h3>Start benefiting now!</h3>
+			<h2><a href="information_package.php" title="Information Package">Information Package</a></h2>
+			<h2><a href="contact-us.php" title="Contact us">Contact us</a></h2>
+			<ul class="other_list">
+				<li><a href="conditions-use.php" title="Conditions of use">Conditions of use</a></li>
+				<li><a href="confidentiality-policy.php" title="Confidentiality policy">Confidentiality policy</a></li>
+				<li><a href="abc-security.php" title="The ABCs of security">The ABCs of security</a></li>
+			</ul>
 		</article>
-  </section>
+	</section>
 <!--CENTER CONTENT ENDS-->
 
 <!--ASIDE STARTS-->
-  <?php include_once("../includes/_include_aside_en.php"); ?>
+	<aside>
+		<img src="../images/page/image_02.jpg" alt="" />
+	</aside>
 <!--ASIDE ENDS-->
 
   <div class="clearfix"></div>

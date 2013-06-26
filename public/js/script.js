@@ -17,7 +17,7 @@ $(document).ready(function(){
 				.before('<div id="paginador">')
 				.cycle({
 				   fx:     'fade',
-				   speed:  2000,
+				   speed:  500,
 				   timeout: 0,
 				   pager:  '#paginador',
 				   next:   '#next',

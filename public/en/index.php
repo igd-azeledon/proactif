@@ -66,14 +66,14 @@
 			<h1>ProActive, Personal injury insurance</h1>
 			<p>Accidents happen when you least expect it. <strong>ProActive, Personal Injury Insurance</strong> helps you overcome unforeseen expenses and focus on your recovery.</p>
 			<p><strong>ProActive, Personal Injury Insurance</strong> protects you in the event of paralysis, a fracture, a dislocation or even a burn in order to lessen the impact of an accident.</p>
-			<a href="#" class="more short">Learn more</a>
+			<a href="about.php" class="more short">Learn more</a>
 			<div class="col_2">
 				<img src="../images/index/image_01.jpg" alt="" />
 				<div>
 					<h2>Did you know...</h2>
 					<p>Every year, approximately 4 million Canadians suffer injuries that limit their day-to-day activities.<sup>1</sup></p>
 					<em>1. Statistics Canada, Community Health Survey</em>
-					<a href="#" class="red_arrow2">Learn more</a>
+					<a href="features-benefits.php" class="red_arrow2">Learn more</a>
 				</div>
 			</div>
 		</article>
@@ -81,7 +81,7 @@
 		<article>
 			<h2>Medical care assistance: A health care support program</h2>
 			<p>When you sign up for <strong>ProActive, Personal Injury Insurance,</strong> you also benefit from <strong>Medical Care Assistance,</strong> a made-to-measure medical support plan!</p>
-			<a href="#" class="more short">Learn more</a>
+			<a href="medical-care-assistance.php" class="more short">Learn more</a>
 		</article>
 	</section>
 <!--CENTER CONTENT ENDS-->
@@ -94,9 +94,9 @@
 </section>
 <!--PAGE CONTENT ENDS-->
 
-<!--FOOTER STARTS-->
+<!--BOTTOM STARTS-->
 <?php include_once("../includes/_include_bottom_en.php"); ?>
-<!--FOOTER ENDS-->
+<!--BOTTOM ENDS-->
 
 <!--FOOTER STARTS-->
 <?php include_once("../includes/_include_footer_en.php"); ?>

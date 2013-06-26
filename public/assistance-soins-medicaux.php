@@ -62,9 +62,9 @@
 </section>
 <!--PAGE CONTENT ENDS-->
 
-<!--FOOTER STARTS-->
+<!--BOTTOM STARTS-->
 <?php include_once("includes/_include_bottom.php"); ?>
-<!--FOOTER ENDS-->
+<!--BOTTOM ENDS-->
 
 <!--FOOTER STARTS-->
 <?php include_once("includes/_include_footer.php"); ?>

@@ -75,7 +75,7 @@
 #prev {
 	width: 30px;
 	height: 30px;
-	background: url(../images/index/banners_arrow_left.gif) no-repeat;
+	background: url(../images/index/banners_arrow_left.jpg) no-repeat;
 	text-indent: -50px;
 	overflow: hidden;
 	position: absolute;
@@ -86,7 +86,7 @@
 #next {
 	width: 30px;
 	height: 30px;
-	background: url(../images/index/banners_arrow_right.gif) no-repeat;
+	background: url(../images/index/banners_arrow_right.jpg) no-repeat;
 	text-indent: -50px;
 	overflow: hidden;
 	position: absolute;

@@ -66,14 +66,14 @@
 			<h1>ProActif, Assurance en cas de blessure</h1>
 			<p>Parce qu’un accident est si vite arrivé, <strong>ProActif, Assurance en cas de blessure</strong> vous aide à surmonter les imprévus financiers et à vous concentrer sur votre rétablissement.</p>
 			<p><strong>ProActif, Assurance en cas de blessure</strong>vous offre une protection abordable en cas de fracture, de dislocation, de brûlure ou de paralysie afin de minimiser les conséquences d’un tel accident.</p>
-			<a href="#" class="more">En Savoir Plus</a>
+			<a href="a-propos.php" class="more">En Savoir Plus</a>
 			<div class="col_2">
 				<img src="images/index/image_01.jpg" alt="" />
 				<div>
 					<h2>Saviez-vous que...</h2>
 					<p>Chaque année, environ 4 millions de blessures limitent les Canadiens dans leurs activités quotidiennes.<sup>1</sup></p>
 					<em>1. Statistique Canada, Enquête annuelle sur la santé dans les collectivités canadiennes</em>
-					<a href="#" class="red_arrow">En savoir plus</a>
+					<a href="caracteristiques-prestations.php" class="red_arrow">En savoir plus</a>
 				</div>
 			</div>
 		</article>
@@ -81,7 +81,7 @@
 		<article>
 			<h2>Assistance soins médicaux : Un programme de soutien en soins de santé</h2>
 			<p>Adhérer à <strong>ProActif, Assurance en cas de blessure</strong> c’est également bénéficier du programme <strong>Assistance soins médicaux</strong>, un service de soutien médical complet et personnalisé !</p>
-			<a href="#" class="more">En Savoir Plus</a>
+			<a href="assistance-soins-medicaux.php" class="more">En Savoir Plus</a>
 		</article>
 	</section>
 <!--CENTER CONTENT ENDS-->
@@ -94,9 +94,9 @@
 </section>
 <!--PAGE CONTENT ENDS-->
 
-<!--FOOTER STARTS-->
+<!--BOTTOM STARTS-->
 <?php include_once("includes/_include_bottom.php"); ?>
-<!--FOOTER ENDS-->
+<!--BOTTOM ENDS-->
 
 <!--FOOTER STARTS-->
 <?php include_once("includes/_include_footer.php"); ?>

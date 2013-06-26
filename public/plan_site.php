@@ -4,7 +4,7 @@
 
 <meta charset="utf-8">
 
-<title>PROACTIF - À PROPOS</title>
+<title>PROACTIF - PLAN THE SITE</title>
 <meta name="description" content="">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 
@@ -18,13 +18,13 @@
 <script src="js/libs/modernizr-2.0.min.js"></script>
 
 </head>
-<body id="Two-a">
+<body id="Three">
 
 <!--TOP STARTS-->
 <?php include_once("includes/_include_top.php"); ?>
 <!--TOP ENDS-->
 
-<section class="banner"><div class="pic1"><div><h2 class="different">Concentrez-vous sur la guérison, on s’occupe de votre sécurité financière!</h2></div></div></section>
+<section class="banner"><div class="pic6"><div><h2 class="different">Plan the site<span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis erat at dolor commodo eleifend. Vestibulum cursus</span></h2></div></div></section>
 
 <!--PAGE CONTENT STARTS-->
 <section id="PageContent">
@@ -33,36 +33,43 @@
 	<section id="CenterContent">
 		<ul class="links">
 			<li><a href="index.php" title="Accueil">Accueil</a>></li>
-			<li><a href="a-propos.php" title="Assurance ProActif">Assurance ProActif</a>></li>
-			<li>À Propos</li>
+			<li>Plan the site</li>
 		</ul>
-		<article>
-		  <h1>ProActif, Assurance en cas de blessure</h1>
-			<h2>Concentrez-vous sur la guérison, on s’occupe de votre sécurité financière!</h2>
-			<p>Avec ProActif, Assurance en cas de blessure, vous préservez votre qualité de vie et votre autonomie financière.</p>
-			<p>Advenant un accident ou une blessure, ProActif, Assurance en cas de blessure, vous bénéficiez d’un soutien optimal pour vous rétablir en toute tranquillité :</p>
+		<h1>Plan the site</h1>
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris faucibus leo sapien, non dapibus</p>
+		<article id="Sitemap">
+			<h2><a href="index.php" title="Accueil">Accueil</a></h2>
+			<h2>Assurance Proactif</h2>
 			<ul>
-				<li>Prestation de convalescence en argent <strong>jusqu’à 18 750 $</strong> à utiliser comme bon vous semble</li>
-				<li>Protection supplémentaire en cas de décès accidentel pouvant aller <strong>jusqu’à 18 750 $</strong></li>
-				<li>Couverture partout dans le monde, <strong>24heures sur 24</strong></li> 
-				<li>Profitez en plus des avantages d’<strong>Assistance soins médicaux</strong>, un programme de soutien médical complet et personnalisé qui met à votre disposition les meilleures ressources en soins de santé.</li>
+				<li><a href="a-propos.php" title="&Agrave; Propos">&Agrave; Propos</a></li>
+				<li><a href="caracteristiques-prestations.php" title="Caract&eacute;ristiques Prestations">Caract&eacute;ristiques Prestations</a></li>
+				<li><a href="primes-prestations.php" title="Primes - Prestations">Primes - Prestations</a></li>
+				<li><a href="assistance-soins-medicaux.php" title="Assistance Soins M&eacute;dicaux">Assistance Soins M&eacute;dicaux</a></li>
 			</ul>
-			<p>De plus, si vous avez entre 18 et 75 ans votre, acceptation est garantie et vous bénéficiez d’une période d’essai de 30 jours pour vous assurer que ProActif répond pleinement à vos besoins.</p>
-	  </article>
-  </section>
+			<h2><a href="trousse-dinformation.php" title="Trousse D&rsquo;Information">Trousse D&rsquo;Information</a></h2>
+			<h2><a href="nous-joindre.php" title="Nous Joindre">Nous Joindre</a></h2>
+			<ul class="other_list">
+				<li><a href="conditions-dutilisation.php" title="Conditions d&rsquo;utilisation">Conditions d&rsquo;utilisation</a></li>
+				<li><a href="politique-confidentialite.php" title="Politique de confidentialit&eacute;">Politique de<br />confidentialit&eacute;</a></li>
+				<li><a href="abc-securite.php" title="ABC de s&eacute;curit&eacute;">ABC de s&eacute;curit&eacute;</a></li>
+			</ul>
+		</article>
+	</section>
 <!--CENTER CONTENT ENDS-->
 
 <!--ASIDE STARTS-->
-	<?php include_once("includes/_include_aside.php"); ?>
+	<aside>
+		<img src="images/page/image_02.jpg" alt="" />
+	</aside>
 <!--ASIDE ENDS-->
 
-	<div class="clearfix"></div>
+  <div class="clearfix"></div>
 </section>
 <!--PAGE CONTENT ENDS-->
 
-<!--BOTTOM STARTS-->
+<!--FOOTER STARTS-->
 <?php include_once("includes/_include_bottom.php"); ?>
-<!--BOTTOM ENDS-->
+<!--FOOTER ENDS-->
 
 <!--FOOTER STARTS-->
 <?php include_once("includes/_include_footer.php"); ?>

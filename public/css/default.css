@@ -394,7 +394,7 @@ svg:not(:root) {overflow: hidden;}
 	height: 22px;
 	margin: 5px 0 35px;
 	padding: 9px 0 0 26px;
-	background: url(../images/defaults/button_more.png) no-repeat 0 0;
+	background: url(../images/defaults/button_more.png) no-repeat 0 -31px;
 	font-size: 11px;
 	font-weight: bold;
 	text-transform: uppercase;
@@ -402,10 +402,11 @@ svg:not(:root) {overflow: hidden;}
 	display: block;
 }
 .short {
-	background: url(../images/defaults/button_more2.png) no-repeat 0 0;
+	background: url(../images/defaults/button_more2.png) no-repeat 0 -31px;
 }
 .more:hover {
-	background-position: 0 -31px;
+	background-position: 0 0;
+	text-decoration: none;
 }
 .red_arrow {
 	padding-right: 20px;
@@ -470,7 +471,6 @@ svg:not(:root) {overflow: hidden;}
 }
 #PageContent aside article {
 	width: 288px;
-	min-height: 178px;
 	margin-bottom: 27px;
 	padding: 20px;
 	background-color: #EBEBEB;

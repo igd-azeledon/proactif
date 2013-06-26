@@ -65,11 +65,11 @@
 </section>
 <!--PAGE CONTENT ENDS-->
 
-<!--FOOTER STARTS-->
+<!--BOTTOM STARTS-->
 <?php include_once("includes/_include_bottom.php"); ?>
 <!--FOOTER ENDS-->
 
-<!--FOOTER STARTS-->
+<!--BOTTOM STARTS-->
 <?php include_once("includes/_include_footer.php"); ?>
 <!--FOOTER ENDS-->
 

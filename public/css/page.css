@@ -335,6 +335,12 @@ input.more {
 	border: none;
 	text-align: left;
 }
+input.short {
+	width: 100px;
+	background-size: 100% 200%;
+	padding-left: 31px;
+	font-size: 12px;
+}
 h3 span .mail {
 	text-decoration: underline;
 }
@@ -357,5 +363,38 @@ h3 span .mail:hover {
 }
 .haut:hover {
 	background-color: #E41C23;
+}
+#Sitemap {
+	width: 526px;
+	margin-bottom: 30px;
+	padding: 35px 25px 45px !important;
+	border: 1px solid #E41C23;
+}
+#Sitemap a:hover {
+	color: #E41C23;
+}
+#PageContent #Sitemap h2 {
+	padding-top: 10px;
+	padding-bottom: 20px;
+}
+#Sitemap h2 a {
+	padding-left: 25px;
+	background: url(../images/defaults/arrow_red.png) no-repeat 0 6px;
+	font-size: 20px;
+}
+#CenterContent #Sitemap ul {
+	padding-bottom: 20px;
+}
+#CenterContent #Sitemap ul li {
+	padding-bottom: 5px;
+}
+#CenterContent ul.other_list li:first-child {
+	margin-left: 0;
+}
+#CenterContent ul.other_list li {
+	margin-left: 25px;
+	padding-left: 15px;
+	background-position: 0 7px;
+	float: left;
 }
 /* PAGE ENDS */
