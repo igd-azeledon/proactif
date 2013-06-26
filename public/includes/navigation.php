@@ -19,7 +19,9 @@ class Navigation
             'caracteristiques-prestations.php',
             'primes-prestations.php',
             'conditions-dutilisation.php',
-            'trousse-dinformation.php'  
+            'trousse-dinformation.php',
+            'abc-securite.php',
+            'plan_site.php'
         );
 
         $this->_en_pages = array(
@@ -32,7 +34,8 @@ class Navigation
             'bonus-benefits.php',
             'conditions-use.php',
             'information_package.php',
-            'abc-security.php'
+            'abc-security.php',
+            'sitemap.php'
         );
    }
 

@@ -81,18 +81,18 @@
 							<ul>
                             <li>
                             <label for="first_name">Prénom: <span>*</span></label>
-                            <input type="text" name="first_name" id="first_name" value="<?php echo (isset($_SESSION['contact_form']['first_name']))?$_SESSION['contact_form']['first_name']:''?>"/>
+                            <input type="text" name="first_name" id="first_name" maxlength="60" pattern="[a-zA-Z _]+" required value="<?php echo (isset($_SESSION['contact_form']['first_name']))?$_SESSION['contact_form']['first_name']:''?>"/>
                             </li>
                             <li>
                             <label for="last_name">Nom: <span>*</span></label>
-                            <input type="text" name="last_name" id="last_name" value="<?php echo (isset($_SESSION['contact_form']['last_name']))?$_SESSION['contact_form']['last_name']:''?>"/>
+                            <input type="text" name="last_name" id="last_name" maxlength="60" pattern="[a-zA-Z _]+" required value="<?php echo (isset($_SESSION['contact_form']['last_name']))?$_SESSION['contact_form']['last_name']:''?>"/>
                             <li>
                             <label for="email">Courriel: <span>*</span></label>
-                            <input type="text" name="email" id="email" value="<?php echo (isset($_SESSION['contact_form']['email']))?$_SESSION['contact_form']['email']:''?>"/>
+                            <input type="text" name="email" id="email" maxlength="60" pattern="[a-zA-Z_0-9@.\-]+" required value="<?php echo (isset($_SESSION['contact_form']['email']))?$_SESSION['contact_form']['email']:''?>"/>
 							</li>
                             <li>
                             <label for="phone">Téléphone: <span>*</span></label>
-                            <input type="text" name="phone" id="phone" value="<?php echo (isset($_SESSION['contact_form']['phone']))?$_SESSION['contact_form']['phone']:''?>"/>
+                            <input type="text" name="phone" id="phone" maxlength="20" pattern="[0-9 \-]+" required value="<?php echo (isset($_SESSION['contact_form']['phone']))?$_SESSION['contact_form']['phone']:''?>"/>
                             </li>
                         </ul>
                         </fieldset>
