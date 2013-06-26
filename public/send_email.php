@@ -43,8 +43,8 @@ function valid_email($email)
 //check if post information has been submitted
 if($_POST)
 {
-    error_reporting(E_ALL);
-    ini_set('display_errors', 1);
+    //error_reporting(E_ALL);
+    //ini_set('display_errors', 1);
     
     //check the session seed
     if(isset($_POST['seed']) && $_POST['seed']==$_SESSION['seed'])
@@ -122,21 +122,29 @@ if($_POST)
         //if the user desires to be contacted
         if(isset($_POST['allow_contact']))
             $message .= '<br/>'.$lang[$current_lang]['allow_contact_field_name'];
-        //echo $message; die();
-        //send email
-        $headers  = 'MIME-Version: 1.0' . "\r\n";
-        $headers .= 'Content-type: text/html; charset=iso-8859-1' . "\r\n";
-        $headers .= 'From: admin@proactif.com' . "\r\n" . 'Reply-To: admin@proactif.com' . "\r\n";
-        $mail_status = mail('admin@proactif.com', $lang[$current_lang]['mail_subject'], $message, $headers);
         
-        $_SESSION['mail_status'] = $mail_status;
-        if($mail_status)
+        if(trim($error_text)=='')
         {
-            $_SESSION['mail_notification'] = $lang[$current_lang]['mail_success'];
-            unset($_SESSION['contact_form']);
+            //send email
+            $headers  = 'MIME-Version: 1.0' . "\r\n";
+            $headers .= 'Content-type: text/html; charset=iso-8859-1' . "\r\n";
+            $headers .= 'From: admin@proactif.com' . "\r\n" . 'Reply-To: admin@proactif.com' . "\r\n";
+            $mail_status = mail('admin@proactif.com', $lang[$current_lang]['mail_subject'], $message, $headers);
+            
+            $_SESSION['mail_status'] = $mail_status;
+            if($mail_status)
+            {
+                $_SESSION['mail_notification'] = $lang[$current_lang]['mail_success'];
+                unset($_SESSION['contact_form']);
+            }
+            else
+                $_SESSION['mail_notification'] = $lang[$current_lang]['mail_failed'];
         }
         else
+        {
+            $_SESSION['mail_status'] = false;
             $_SESSION['mail_notification'] = $lang[$current_lang]['mail_failed'].$error_text;
+        }
         
         if($_POST['lang']=='en')
             header('Location: en/contact-us.php');
