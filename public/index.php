@@ -49,7 +49,7 @@
 				<img src="images/index/banner_02.jpg" alt="Concentrez-vous sur la guérison, on s’occupe de votre sécurité financière" />
 			</div>
 			<div>
-				<h2 class="different">Deux prestations plutôt qu’une : <strong>+25%</strong> de la prestation en cas de blessure</h2>
+				<h2>Deux prestation pour le prix d’une : une garantie de convalescence</h2>
 				<img src="images/index/banner_01.jpg" alt="Deux prestation pour le prix d’une : une garantie de convalescence" />
 			</div>
 		</div>
