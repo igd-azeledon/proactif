@@ -8,9 +8,6 @@
 		<h2>Discover our assitance products</h2>
 		<ul>
 			<li>
-				<a href="#" title="Identity Assistance - Premium" class="blankLink">Identity Assistance - Premium</a>
-			</li>
-			<li>
 				<a href="#" title="Medical Care Assistance" class="blankLink">Medical Care Assistance</a>
 			</li>
 			<li>
