@@ -177,7 +177,7 @@
 <script>window.jQuery || document.write('<script src="js/jquery-1.8.2.min.js"><\/script>')</script>
 
 <script type="text/javascript" src="../js/jquery.tools.min.js"></script>
-
+<script src="../js/contact-us.js"></script>
 <!--scripts concatenated and minified via ant build script-->
 <script defer src="../js/script.js"></script><!--Para colocar inizializadores de JS-->
 <!--end scripts-->
