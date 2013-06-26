@@ -8,9 +8,6 @@
 		<h2>D&eacute;couvrez nos diff&eacute;rents produits d&rsquo;assistance</h2>
 		<ul>
 			<li>
-				<a href="#" title="Assistance identit&eacute; - Premium" class="blankLink">Assistance identit&eacute; - Premium</a>
-			</li>
-			<li>
 				<a href="#" title="Assistance soins m&eacute;dicaux" class="blankLink">Assistance soins m&eacute;dicaux</a>
 			</li>
 			<li>
